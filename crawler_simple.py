@@ -35,9 +35,38 @@ CLAIM_INDICATORS = [
 ]
 
 UNRELIABLE_DOMAINS = [
+    # Known misinformation sources
     "rt.com", "sputniknews", "epochtimes", "breitbart",
-    "infowars", "naturalnews", "beforeitsnews"
+    "infowars", "naturalnews", "beforeitsnews",
+    # Content farms / Aggregator networks (Big News Network)
+    "northkoreatimes.com", "northkoreaTimes.com",
+    "bignewsnetwork.com",
+    "newkerala.com",
+    "menafn.com",
+    # Low quality aggregators
+    "newsbreak.com",
+    "newsmax.com",
+    # Clickbait farms
+    "dailywire.com",
 ]
+
+# Domains that should get MEDIUM risk (not outright unreliable, but questionable)
+QUESTIONABLE_DOMAINS = [
+    "bignewsnetwork",
+    "northkoreatimes",
+    "timesnewswire",
+    "newsnetwork",
+    "newswire",
+]
+
+# Try to import comprehensive domain database
+try:
+    from domain_database import get_domain_risk, HIGH_RISK_DOMAINS, MEDIUM_RISK_DOMAINS
+    USE_DOMAIN_DB = True
+    print("✅ Domain database loaded")
+except ImportError:
+    USE_DOMAIN_DB = False
+    print("⚠️ Domain database not found, using basic list")
 
 # ============================================================
 # CRAWLERS
@@ -246,24 +275,50 @@ def check_factcheck_api(claim_text):
 
 
 def calculate_risk(claim_text, factcheck, domain):
-    """Calculate risk score."""
+    """Calculate risk score based on multiple factors."""
     score = 0.0
+    category_info = None
     
+    # Factor 1: Existing fact-check result
     if factcheck["found"]:
         rating = (factcheck["rating"] or "").lower()
-        if any(w in rating for w in ["falsch", "false", "irreführend", "misleading"]):
+        if any(w in rating for w in ["falsch", "false", "irreführend", "misleading", "pants on fire"]):
             score += 0.5
-        elif any(w in rating for w in ["wahr", "true"]):
+        elif any(w in rating for w in ["wahr", "true", "correct"]):
             score -= 0.2
     
-    if any(d in (domain or "").lower() for d in UNRELIABLE_DOMAINS):
-        score += 0.3
+    # Factor 2: Domain credibility (use database if available)
+    if USE_DOMAIN_DB:
+        domain_score, domain_risk, domain_category = get_domain_risk(domain or "")
+        score += domain_score
+        category_info = domain_category
+    else:
+        # Fallback to basic lists
+        if any(d in (domain or "").lower() for d in UNRELIABLE_DOMAINS):
+            score += 0.4
+        if any(d in (domain or "").lower() for d in QUESTIONABLE_DOMAINS):
+            score += 0.25
     
-    if any(w in claim_text.lower() for w in ["immer", "nie", "alle", "keine", "100%"]):
+    # Factor 3: Extreme/absolute language
+    extreme_words = [
+        "immer", "nie", "alle", "keine", "100%", "garantiert", "beweis",
+        "always", "never", "everyone", "nobody", "guaranteed", "exposed", "exposed"
+    ]
+    if any(w in claim_text.lower() for w in extreme_words):
         score += 0.1
     
+    # Factor 4: Sensationalist language
+    sensational_words = [
+        "schock", "unglaublich", "skandal", "geheim", "enthüllt",
+        "shocking", "unbelievable", "scandal", "secret", "revealed", "breaking"
+    ]
+    if any(w in claim_text.lower() for w in sensational_words):
+        score += 0.05
+    
+    # Normalize score
     score = max(0, min(1, score))
     
+    # Determine risk category
     if score >= 0.7:
         return score, "HIGH"
     elif score >= 0.4:
@@ -315,7 +370,7 @@ def main():
     results = []
     processed = 0
     
-    for article in articles[:50]:  # Limit for free tier
+    for article in articles[:50]:  # Process up to 50 articles
         url = article["url"]
         domain = article.get("domain", "")
         
@@ -343,7 +398,7 @@ def main():
             })
         
         processed += 1
-        print(f"  ✓ {processed}/{min(20, len(articles))}: {domain}")
+        print(f"  ✓ {processed}/{min(50, len(articles))}: {domain}")
     
     # 3. Save results
     timestamp = datetime.utcnow().strftime("%Y%m%d_%H%M")
