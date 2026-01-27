@@ -49,8 +49,8 @@ def crawl_gdelt(languages=None, max_articles=30):
     
     # GDELT verwendet sourcelang Parameter mit spezifischen Codes
     lang_configs = [
-        {"code": "german", "query": "politik OR regierung"},
-        {"code": "english", "query": "politics OR government"},
+        {"code": "german", "query": "(politik OR regierung)"},
+        {"code": "english", "query": "(politics OR government)"},
     ]
     
     for config in lang_configs:
