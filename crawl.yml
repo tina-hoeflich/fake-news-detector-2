@@ -1,0 +1,55 @@
+name: Fake News Crawler
+
+on:
+  # Läuft alle 6 Stunden (kostenlos bei ~120 Runs/Monat)
+  schedule:
+    - cron: '0 */6 * * *'  # 00:00, 06:00, 12:00, 18:00 UTC
+  
+  # Manuell auslösen
+  workflow_dispatch:
+
+jobs:
+  crawl-and-analyze:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Install dependencies
+        run: pip install requests
+      
+      - name: Download previous database
+        continue-on-error: true
+        run: |
+          # Lade DB vom letzten Run (als Artifact gespeichert)
+          mkdir -p data
+          # Falls du externe DB nutzt (siehe unten), diesen Schritt überspringen
+      
+      - name: Run crawler
+        env:
+          GOOGLE_FACTCHECK_API_KEY: ${{ secrets.GOOGLE_FACTCHECK_API_KEY }}
+        run: python crawler_simple.py
+      
+      - name: Upload results
+        uses: actions/upload-artifact@v4
+        with:
+          name: results-${{ github.run_number }}
+          path: |
+            results/
+            *.csv
+            *.json
+          retention-days: 30
+      
+      - name: Commit results to repo (optional)
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add results/ || true
+          git diff --staged --quiet || git commit -m "🔍 Crawl results $(date -u +%Y-%m-%d)"
+          git push || true

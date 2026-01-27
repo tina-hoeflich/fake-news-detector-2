@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fake News Monitor</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: system-ui, -apple-system, sans-serif;
+            background: #111;
+            color: #eee;
+            padding: 2rem;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        h1 { font-size: 1.5rem; margin-bottom: 0.5rem; }
+        .subtitle { color: #666; margin-bottom: 2rem; font-size: 0.9rem; }
+        .stats {
+            display: flex;
+            gap: 1rem;
+            margin-bottom: 2rem;
+        }
+        .stat {
+            background: #1a1a1a;
+            padding: 1rem 1.5rem;
+            border-radius: 8px;
+            text-align: center;
+        }
+        .stat-num { font-size: 2rem; font-weight: bold; }
+        .stat-num.high { color: #ef4444; }
+        .stat-num.medium { color: #eab308; }
+        .stat-num.low { color: #22c55e; }
+        .stat-label { font-size: 0.75rem; color: #666; text-transform: uppercase; }
+        .claim {
+            background: #1a1a1a;
+            padding: 1rem;
+            border-radius: 8px;
+            margin-bottom: 0.75rem;
+            border-left: 3px solid #333;
+        }
+        .claim.HIGH { border-color: #ef4444; }
+        .claim.MEDIUM { border-color: #eab308; }
+        .claim.LOW { border-color: #22c55e; }
+        .claim-text { margin-bottom: 0.5rem; line-height: 1.5; }
+        .claim-meta { font-size: 0.8rem; color: #666; }
+        .claim-meta a { color: #3b82f6; }
+        .badge {
+            display: inline-block;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            font-weight: bold;
+            margin-left: 0.5rem;
+        }
+        .badge.HIGH { background: #ef444433; color: #ef4444; }
+        .badge.MEDIUM { background: #eab30833; color: #eab308; }
+        .badge.LOW { background: #22c55e33; color: #22c55e; }
+        .load-section { text-align: center; padding: 2rem; }
+        input[type="file"] { margin: 1rem 0; }
+        .empty { color: #666; padding: 2rem; text-align: center; }
+        .last-update { color: #666; font-size: 0.8rem; margin-bottom: 1rem; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Fake News Monitor</h1>
+    <p class="subtitle">Automatisch analysierte Nachrichten-Claims</p>
+    
+    <div class="load-section" id="load-section">
+        <p>Lade eine results.json Datei:</p>
+        <input type="file" id="file-input" accept=".json">
+        <p style="color:#666; font-size:0.8rem; margin-top:1rem">
+            Oder platziere <code>results/latest.json</code> im selben Ordner
+        </p>
+    </div>
+    
+    <div id="content" style="display:none">
+        <div class="stats">
+            <div class="stat">
+                <div class="stat-num" id="total">0</div>
+                <div class="stat-label">Claims</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num high" id="high">0</div>
+                <div class="stat-label">High Risk</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num medium" id="medium">0</div>
+                <div class="stat-label">Medium</div>
+            </div>
+            <div class="stat">
+                <div class="stat-num low" id="low">0</div>
+                <div class="stat-label">Low</div>
+            </div>
+        </div>
+        
+        <p class="last-update" id="last-update"></p>
+        
+        <div id="claims"></div>
+    </div>
+
+    <script>
+        // Try to load latest.json automatically
+        fetch('results/latest.json')
+            .then(r => r.json())
+            .then(renderData)
+            .catch(() => {});
+        
+        document.getElementById('file-input').addEventListener('change', e => {
+            const file = e.target.files[0];
+            if (file) {
+                const reader = new FileReader();
+                reader.onload = e => renderData(JSON.parse(e.target.result));
+                reader.readAsText(file);
+            }
+        });
+        
+        function renderData(data) {
+            document.getElementById('load-section').style.display = 'none';
+            document.getElementById('content').style.display = 'block';
+            
+            // Stats
+            document.getElementById('total').textContent = data.length;
+            document.getElementById('high').textContent = data.filter(d => d.risk_category === 'HIGH').length;
+            document.getElementById('medium').textContent = data.filter(d => d.risk_category === 'MEDIUM').length;
+            document.getElementById('low').textContent = data.filter(d => d.risk_category === 'LOW').length;
+            
+            // Last update
+            if (data[0]?.checked_at) {
+                document.getElementById('last-update').textContent = 
+                    'Letztes Update: ' + new Date(data[0].checked_at).toLocaleString('de-DE');
+            }
+            
+            // Sort by risk
+            data.sort((a, b) => b.risk_score - a.risk_score);
+            
+            // Claims
+            const container = document.getElementById('claims');
+            container.innerHTML = data.map(d => `
+                <div class="claim ${d.risk_category}">
+                    <div class="claim-text">
+                        "${d.claim}"
+                        <span class="badge ${d.risk_category}">${d.risk_category} ${Math.round(d.risk_score * 100)}%</span>
+                    </div>
+                    <div class="claim-meta">
+                        Quelle: <a href="${d.source_url}" target="_blank">${d.source_domain}</a>
+                        ${d.has_factcheck ? ` • Fact-Check: ${d.factcheck_rating} (${d.factcheck_source})` : ''}
+                    </div>
+                </div>
+            `).join('');
+        }
+    </script>
+</body>
+</html>
