@@ -48,26 +48,24 @@ def crawl_gdelt(languages=None, max_articles=30):
     articles = []
     
     # GDELT verwendet sourcelang Parameter mit spezifischen Codes
-    # Siehe: https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/
     lang_configs = [
-        {"code": "german", "query": "politik OR regierung OR wirtschaft"},
-        {"code": "english", "query": "politics OR government OR economy"},
+        {"code": "german", "query": "politik OR regierung"},
+        {"code": "english", "query": "politics OR government"},
     ]
     
     for config in lang_configs:
         try:
-            # GDELT DOC 2.0 API URL-Struktur
-            # Der Query muss ein Keyword enthalten UND sourcelang als Teil des Query
+            # GDELT DOC 2.0 API - sourcelang muss im Query sein
             query = f"{config['query']} sourcelang:{config['code']}"
             
             url = "https://api.gdeltproject.org/api/v2/doc/doc"
             params = {
                 "query": query,
-                "mode": "artlist",
+                "mode": "ArtList",  # Case-sensitive!
                 "maxrecords": max_articles,
                 "timespan": "24h",
                 "format": "json",
-                "sort": "datedesc"
+                "sort": "DateDesc"
             }
             
             response = requests.get(
@@ -80,12 +78,15 @@ def crawl_gdelt(languages=None, max_articles=30):
                 }
             )
             
-            # Debug: Print URL und Status
             print(f"  GDELT [{config['code']}] Status: {response.status_code}")
             
             if response.status_code == 200:
                 text = response.text.strip()
-                if text and text.startswith('{'):
+                
+                # Debug: Zeige erste 200 Zeichen der Response
+                print(f"  Response preview: {text[:200]}...")
+                
+                if text.startswith('{') or text.startswith('['):
                     data = response.json()
                     article_list = data.get("articles", [])
                     for article in article_list:
@@ -97,8 +98,10 @@ def crawl_gdelt(languages=None, max_articles=30):
                             "seen_date": article.get("seendate")
                         })
                     print(f"✅ GDELT [{config['code']}]: {len(article_list)} articles")
+                elif "<!DOCTYPE" in text or "<html" in text.lower():
+                    print(f"⚠️ GDELT [{config['code']}]: Got HTML instead of JSON (API may be overloaded)")
                 else:
-                    print(f"⚠️ GDELT [{config['code']}]: Non-JSON response")
+                    print(f"⚠️ GDELT [{config['code']}]: Unknown response format")
             else:
                 print(f"⚠️ GDELT [{config['code']}]: HTTP {response.status_code}")
                 
