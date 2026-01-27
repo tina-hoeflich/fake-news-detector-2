@@ -1,0 +1,17 @@
+# Fake News Detection MVP - Dependencies
+# =======================================
+# Minimale Abhängigkeiten für MVP
+
+requests>=2.28.0
+
+# Optional für bessere Artikel-Extraktion (Phase 2):
+# newspaper3k>=0.2.8
+# trafilatura>=1.6.0
+
+# Optional für LLM-basierte Claim-Extraktion (Phase 3):
+# anthropic>=0.18.0
+# openai>=1.0.0
+
+# Optional für besseres NLP (Phase 3):
+# spacy>=3.5.0
+# transformers>=4.30.0
