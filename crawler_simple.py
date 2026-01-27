@@ -195,6 +195,11 @@ def extract_claims(text):
 def check_factcheck_api(claim_text):
     """Check against Google Fact Check API."""
     api_key = os.getenv("GOOGLE_FACTCHECK_API_KEY", "")
+    if api_key:
+        print("✅ API Key loaded")
+    else:
+        print("⚠️ No API key - running without fact-check")
+        
     result = {"found": False, "rating": None, "source": None, "url": None}
     
     try:
