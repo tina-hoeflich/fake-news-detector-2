@@ -315,7 +315,7 @@ def main():
     results = []
     processed = 0
     
-    for article in articles[:20]:  # Limit for free tier
+    for article in articles[:50]:  # Limit for free tier
         url = article["url"]
         domain = article.get("domain", "")
         
