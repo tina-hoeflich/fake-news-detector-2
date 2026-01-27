@@ -1,12 +1,16 @@
 name: Fake News Crawler
 
 on:
-  # Läuft alle 6 Stunden (kostenlos bei ~120 Runs/Monat)
+  # Läuft alle 6 Stunden
   schedule:
-    - cron: '0 */6 * * *'  # 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
   
   # Manuell auslösen
   workflow_dispatch:
+
+# WICHTIG: Schreibrechte fürs Repo
+permissions:
+  contents: write
 
 jobs:
   crawl-and-analyze:
@@ -24,32 +28,15 @@ jobs:
       - name: Install dependencies
         run: pip install requests
       
-      - name: Download previous database
-        continue-on-error: true
-        run: |
-          # Lade DB vom letzten Run (als Artifact gespeichert)
-          mkdir -p data
-          # Falls du externe DB nutzt (siehe unten), diesen Schritt überspringen
-      
       - name: Run crawler
         env:
           GOOGLE_FACTCHECK_API_KEY: ${{ secrets.GOOGLE_FACTCHECK_API_KEY }}
         run: python crawler_simple.py
       
-      - name: Upload results
-        uses: actions/upload-artifact@v4
-        with:
-          name: results-${{ github.run_number }}
-          path: |
-            results/
-            *.csv
-            *.json
-          retention-days: 30
-      
-      - name: Commit results to repo (optional)
+      - name: Commit results to repo
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add results/ || true
-          git diff --staged --quiet || git commit -m "🔍 Crawl results $(date -u +%Y-%m-%d)"
-          git push || true
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results/
+          git diff --staged --quiet || git commit -m "🔍 Update results $(date -u +%Y-%m-%d\ %H:%M)"
+          git push
