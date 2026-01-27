@@ -50,22 +50,29 @@ def crawl_gdelt(languages=None, max_articles=30):
     
     for lang in languages:
         try:
+            # GDELT braucht einen Suchbegriff, leere Query funktioniert oft nicht
+            search_terms = {
+                "german": "deutschland OR politik OR wirtschaft",
+                "english": "politics OR economy OR government"
+            }
+            
             params = {
-                "query": "",
+                "query": search_terms.get(lang, "news"),
                 "mode": "artlist",
                 "maxrecords": max_articles,
                 "format": "json",
                 "sourcelang": lang,
-                "timespan": "6h"
+                "timespan": "24h"  # Erweitert auf 24h für mehr Ergebnisse
             }
             
             response = requests.get(
                 "https://api.gdeltproject.org/api/v2/doc/doc",
                 params=params,
-                timeout=30
+                timeout=30,
+                headers={"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
             )
             
-            if response.status_code == 200:
+            if response.status_code == 200 and response.text.strip():
                 data = response.json()
                 for article in data.get("articles", []):
                     articles.append({
@@ -76,8 +83,71 @@ def crawl_gdelt(languages=None, max_articles=30):
                         "seen_date": article.get("seendate")
                     })
                 print(f"✅ GDELT [{lang}]: {len(data.get('articles', []))} articles")
+            else:
+                print(f"⚠️ GDELT [{lang}]: Empty response (status {response.status_code})")
         except Exception as e:
             print(f"❌ GDELT [{lang}] error: {e}")
+    
+    return articles
+
+
+def crawl_rss_feeds():
+    """Fetch articles from public RSS feeds as fallback."""
+    feeds = [
+        # German
+        ("https://www.tagesschau.de/index~rss2.xml", "german"),
+        ("https://www.spiegel.de/schlagzeilen/index.rss", "german"),
+        ("https://www.zeit.de/news/index", "german"),
+        # English
+        ("https://feeds.bbci.co.uk/news/rss.xml", "english"),
+        ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "english"),
+        ("https://feeds.reuters.com/reuters/topNews", "english"),
+    ]
+    
+    articles = []
+    
+    for feed_url, lang in feeds:
+        try:
+            response = requests.get(
+                feed_url, 
+                timeout=15,
+                headers={"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
+            )
+            
+            if response.status_code != 200:
+                continue
+            
+            # Simple RSS parsing without external library
+            import re
+            items = re.findall(r'<item>(.*?)</item>', response.text, re.DOTALL)
+            
+            count = 0
+            for item in items[:10]:  # Max 10 per feed
+                title_match = re.search(r'<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>', item)
+                link_match = re.search(r'<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>', item)
+                
+                if title_match and link_match:
+                    url = link_match.group(1).strip()
+                    title = title_match.group(1).strip()
+                    
+                    # Clean CDATA and HTML
+                    title = re.sub(r'<[^>]+>', '', title)
+                    
+                    if url and title:
+                        domain = url.split('/')[2] if '/' in url else ""
+                        articles.append({
+                            "url": url,
+                            "title": title,
+                            "domain": domain,
+                            "language": lang
+                        })
+                        count += 1
+            
+            if count > 0:
+                print(f"✅ RSS [{feed_url.split('/')[2]}]: {count} articles")
+                
+        except Exception as e:
+            print(f"⚠️ RSS error for {feed_url[:30]}: {e}")
     
     return articles
 
@@ -188,9 +258,36 @@ def main():
     print(f"🔍 FAKE NEWS CRAWLER - {datetime.utcnow().isoformat()}")
     print(f"{'='*60}\n")
     
-    # 1. Crawl
-    articles = crawl_gdelt()
-    print(f"\n📰 Total articles: {len(articles)}")
+    # 1. Crawl from multiple sources
+    articles = []
+    
+    # Try GDELT first
+    print("📡 Trying GDELT...")
+    gdelt_articles = crawl_gdelt()
+    articles.extend(gdelt_articles)
+    
+    # Always also try RSS feeds for reliability
+    print("\n📡 Fetching RSS feeds...")
+    rss_articles = crawl_rss_feeds()
+    articles.extend(rss_articles)
+    
+    # Deduplicate by URL
+    seen_urls = set()
+    unique_articles = []
+    for a in articles:
+        if a["url"] not in seen_urls:
+            seen_urls.add(a["url"])
+            unique_articles.append(a)
+    articles = unique_articles
+    
+    print(f"\n📰 Total unique articles: {len(articles)}")
+    
+    if len(articles) == 0:
+        print("⚠️ No articles found from any source!")
+        # Save empty results anyway
+        with open(RESULTS_DIR / "latest.json", "w") as f:
+            json.dump([], f)
+        return
     
     # 2. Process
     results = []
