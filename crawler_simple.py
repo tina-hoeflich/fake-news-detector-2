@@ -44,49 +44,68 @@ UNRELIABLE_DOMAINS = [
 # ============================================================
 
 def crawl_gdelt(languages=None, max_articles=30):
-    """Fetch articles from GDELT DOC API."""
-    languages = languages or GDELT_LANGUAGES
+    """Fetch articles from GDELT DOC 2.0 API."""
     articles = []
     
-    for lang in languages:
+    # GDELT verwendet sourcelang Parameter mit spezifischen Codes
+    # Siehe: https://blog.gdeltproject.org/gdelt-doc-2-0-api-debuts/
+    lang_configs = [
+        {"code": "german", "query": "politik OR regierung OR wirtschaft"},
+        {"code": "english", "query": "politics OR government OR economy"},
+    ]
+    
+    for config in lang_configs:
         try:
-            # GDELT braucht einen Suchbegriff, leere Query funktioniert oft nicht
-            search_terms = {
-                "german": "deutschland OR politik OR wirtschaft",
-                "english": "politics OR economy OR government"
-            }
+            # GDELT DOC 2.0 API URL-Struktur
+            # Der Query muss ein Keyword enthalten UND sourcelang als Teil des Query
+            query = f"{config['query']} sourcelang:{config['code']}"
             
+            url = "https://api.gdeltproject.org/api/v2/doc/doc"
             params = {
-                "query": search_terms.get(lang, "news"),
+                "query": query,
                 "mode": "artlist",
                 "maxrecords": max_articles,
+                "timespan": "24h",
                 "format": "json",
-                "sourcelang": lang,
-                "timespan": "24h"  # Erweitert auf 24h für mehr Ergebnisse
+                "sort": "datedesc"
             }
             
             response = requests.get(
-                "https://api.gdeltproject.org/api/v2/doc/doc",
+                url,
                 params=params,
                 timeout=30,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                    "Accept": "application/json"
+                }
             )
             
-            if response.status_code == 200 and response.text.strip():
-                data = response.json()
-                for article in data.get("articles", []):
-                    articles.append({
-                        "url": article.get("url"),
-                        "title": article.get("title"),
-                        "domain": article.get("domain"),
-                        "language": lang,
-                        "seen_date": article.get("seendate")
-                    })
-                print(f"✅ GDELT [{lang}]: {len(data.get('articles', []))} articles")
+            # Debug: Print URL und Status
+            print(f"  GDELT [{config['code']}] Status: {response.status_code}")
+            
+            if response.status_code == 200:
+                text = response.text.strip()
+                if text and text.startswith('{'):
+                    data = response.json()
+                    article_list = data.get("articles", [])
+                    for article in article_list:
+                        articles.append({
+                            "url": article.get("url"),
+                            "title": article.get("title"),
+                            "domain": article.get("domain"),
+                            "language": config["code"],
+                            "seen_date": article.get("seendate")
+                        })
+                    print(f"✅ GDELT [{config['code']}]: {len(article_list)} articles")
+                else:
+                    print(f"⚠️ GDELT [{config['code']}]: Non-JSON response")
             else:
-                print(f"⚠️ GDELT [{lang}]: Empty response (status {response.status_code})")
+                print(f"⚠️ GDELT [{config['code']}]: HTTP {response.status_code}")
+                
+        except requests.exceptions.Timeout:
+            print(f"⚠️ GDELT [{config['code']}]: Timeout")
         except Exception as e:
-            print(f"❌ GDELT [{lang}] error: {e}")
+            print(f"❌ GDELT [{config['code']}] error: {type(e).__name__}: {e}")
     
     return articles
 
@@ -195,11 +214,6 @@ def extract_claims(text):
 def check_factcheck_api(claim_text):
     """Check against Google Fact Check API."""
     api_key = os.getenv("GOOGLE_FACTCHECK_API_KEY", "")
-    if api_key:
-        print("✅ API Key loaded")
-    else:
-        print("⚠️ No API key - running without fact-check")
-        
     result = {"found": False, "rating": None, "source": None, "url": None}
     
     try:
