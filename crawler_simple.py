@@ -76,10 +76,10 @@ def crawl_gdelt(languages=None, max_articles=30):
     """Fetch articles from GDELT DOC 2.0 API."""
     articles = []
     
-    # GDELT verwendet sourcelang Parameter mit spezifischen Codes
+    # GDELT: Suche nach kontroversen/viralen Themen wo Fake News häufig sind
     lang_configs = [
-        {"code": "german", "query": "(politik OR regierung)"},
-        {"code": "english", "query": "(politics OR government)"},
+        {"code": "german", "query": "(fake OR falsch OR verschwörung OR skandal OR geheim)"},
+        {"code": "english", "query": "(fake OR hoax OR conspiracy OR scandal OR secret OR shocking)"},
     ]
     
     for config in lang_configs:
@@ -145,19 +145,31 @@ def crawl_gdelt(languages=None, max_articles=30):
 def crawl_rss_feeds():
     """Fetch articles from public RSS feeds as fallback."""
     feeds = [
-        # German
-        ("https://www.tagesschau.de/index~rss2.xml", "german"),
-        ("https://www.spiegel.de/schlagzeilen/index.rss", "german"),
-        ("https://www.zeit.de/news/index", "german"),
-        # English
-        ("https://feeds.bbci.co.uk/news/rss.xml", "english"),
-        ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "english"),
-        ("https://feeds.reuters.com/reuters/topNews", "english"),
+        # ===========================================
+        # FACT-CHECKERS (bereits identifizierte Fake News!)
+        # ===========================================
+        ("https://correctiv.org/faktencheck/feed/", "german", "factcheck"),
+        ("https://www.mimikama.org/feed/", "german", "factcheck"),
+        ("https://www.br.de/nachrichten/faktenfuchs,QzSIzl3/feed", "german", "factcheck"),
+        ("https://www.dpa.com/de/unternehmen/faktencheck#checks/feed", "german", "factcheck"),
+        ("https://www.snopes.com/feed/", "english", "factcheck"),
+        ("https://www.politifact.com/rss/all/", "english", "factcheck"),
+        ("https://fullfact.org/feed/", "english", "factcheck"),
+        ("https://www.factcheck.org/feed/", "english", "factcheck"),
+        ("https://leadstories.com/atom.xml", "english", "factcheck"),
+        
+        # ===========================================
+        # REGULAR NEWS (zum Vergleich)
+        # ===========================================
+        ("https://www.tagesschau.de/index~rss2.xml", "german", "mainstream"),
+        ("https://www.spiegel.de/schlagzeilen/index.rss", "german", "mainstream"),
+        ("https://feeds.bbci.co.uk/news/rss.xml", "english", "mainstream"),
+        ("https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "english", "mainstream"),
     ]
     
     articles = []
     
-    for feed_url, lang in feeds:
+    for feed_url, lang, source_type in feeds:
         try:
             response = requests.get(
                 feed_url, 
@@ -172,10 +184,18 @@ def crawl_rss_feeds():
             import re
             items = re.findall(r'<item>(.*?)</item>', response.text, re.DOTALL)
             
+            # Also try Atom format
+            if not items:
+                items = re.findall(r'<entry>(.*?)</entry>', response.text, re.DOTALL)
+            
             count = 0
-            for item in items[:10]:  # Max 10 per feed
-                title_match = re.search(r'<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>', item)
-                link_match = re.search(r'<link>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>', item)
+            for item in items[:15]:  # Max 15 per feed
+                title_match = re.search(r'<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>', item, re.DOTALL)
+                link_match = re.search(r'<link[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>', item)
+                
+                # Atom format link
+                if not link_match:
+                    link_match = re.search(r'<link[^>]*href=["\']([^"\']+)["\']', item)
                 
                 if title_match and link_match:
                     url = link_match.group(1).strip()
@@ -184,21 +204,23 @@ def crawl_rss_feeds():
                     # Clean CDATA and HTML
                     title = re.sub(r'<[^>]+>', '', title)
                     
-                    if url and title:
+                    if url and title and url.startswith('http'):
                         domain = url.split('/')[2] if '/' in url else ""
                         articles.append({
                             "url": url,
                             "title": title,
                             "domain": domain,
-                            "language": lang
+                            "language": lang,
+                            "source_type": source_type  # 'factcheck' oder 'mainstream'
                         })
                         count += 1
             
             if count > 0:
-                print(f"✅ RSS [{feed_url.split('/')[2]}]: {count} articles")
+                emoji = "🔍" if source_type == "factcheck" else "📰"
+                print(f"{emoji} RSS [{feed_url.split('/')[2][:25]}]: {count} articles ({source_type})")
                 
         except Exception as e:
-            print(f"⚠️ RSS error for {feed_url[:30]}: {e}")
+            print(f"⚠️ RSS error for {feed_url[:40]}: {e}")
     
     return articles
 
@@ -241,6 +263,42 @@ def extract_claims(text):
                     "confidence": min(0.3 + score * 0.2, 0.9)
                 })
     return claims
+
+
+def is_factcheck_article(url, domain):
+    """Check if article is from a fact-checking source."""
+    factcheck_domains = [
+        "correctiv.org", "mimikama", "snopes.com", "politifact.com",
+        "fullfact.org", "factcheck.org", "leadstories.com", "br.de/faktenfuchs",
+        "dpa.com/faktencheck", "afp.com/fact", "reuters.com/fact"
+    ]
+    return any(fc in (domain or "").lower() or fc in (url or "").lower() for fc in factcheck_domains)
+
+
+def extract_factcheck_verdict(text):
+    """
+    Extract verdict from fact-check article.
+    Returns: (verdict, original_claim) or (None, None)
+    """
+    text_lower = text.lower()
+    
+    # German verdicts
+    if any(w in text_lower for w in ["falsch", "fake", "erfunden", "irreführend", "manipuliert"]):
+        return "FALSE", None
+    elif any(w in text_lower for w in ["richtig", "wahr", "korrekt", "bestätigt"]):
+        return "TRUE", None
+    elif any(w in text_lower for w in ["teilweise", "halb wahr", "kontext fehlt"]):
+        return "MIXED", None
+    
+    # English verdicts  
+    if any(w in text_lower for w in ["false", "fake", "fabricated", "misleading", "pants on fire"]):
+        return "FALSE", None
+    elif any(w in text_lower for w in ["true", "correct", "confirmed"]):
+        return "TRUE", None
+    elif any(w in text_lower for w in ["partly", "half true", "missing context", "mixture"]):
+        return "MIXED", None
+    
+    return None, None
 
 
 def check_factcheck_api(claim_text):
@@ -373,11 +431,39 @@ def main():
     for article in articles[:50]:  # Process up to 50 articles
         url = article["url"]
         domain = article.get("domain", "")
+        source_type = article.get("source_type", "unknown")
         
         extracted = extract_text(url)
         if not extracted:
             continue
         
+        # Special handling for fact-check articles
+        if source_type == "factcheck" or is_factcheck_article(url, domain):
+            verdict, _ = extract_factcheck_verdict(extracted["text"])
+            
+            # For fact-checks, the article title often IS the debunked claim
+            title = extracted.get("title", article.get("title", ""))
+            
+            if verdict == "FALSE":
+                # This is a CONFIRMED fake news item!
+                results.append({
+                    "claim": f"[DEBUNKED] {title}",
+                    "source_url": url,
+                    "source_domain": domain,
+                    "article_title": title[:100],
+                    "risk_score": 0.9,  # High because confirmed false
+                    "risk_category": "HIGH",
+                    "has_factcheck": True,
+                    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+                    "factcheck_source": domain,
+                    "source_type": "factcheck",
+                    "checked_at": datetime.utcnow().isoformat()
+                })
+                processed += 1
+                print(f"  🚨 DEBUNKED: {domain} - {title[:50]}...")
+                continue
+        
+        # Regular processing for non-factcheck articles
         claims = extract_claims(extracted["text"])
         
         for claim in claims[:3]:  # Max 3 claims per article
@@ -394,6 +480,7 @@ def main():
                 "has_factcheck": fc["found"],
                 "factcheck_rating": fc["rating"],
                 "factcheck_source": fc["source"],
+                "source_type": source_type,
                 "checked_at": datetime.utcnow().isoformat()
             })
         
