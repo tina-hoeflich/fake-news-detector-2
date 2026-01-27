@@ -428,7 +428,7 @@ def main():
     results = []
     processed = 0
     
-    for article in articles[:50]:  # Process up to 50 articles
+    for article in articles[:200]:  # Process up to 200 articles
         url = article["url"]
         domain = article.get("domain", "")
         source_type = article.get("source_type", "unknown")
