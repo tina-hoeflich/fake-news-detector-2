@@ -72,6 +72,62 @@ except ImportError:
 # CRAWLERS
 # ============================================================
 
+def crawl_euvsdisinfo():
+    """
+    Fetch disinformation cases from EUvsDisinfo database.
+    They have a public API endpoint for their cases.
+    """
+    articles = []
+    
+    try:
+        # EUvsDisinfo has a JSON API for their database
+        # Try their search endpoint
+        api_url = "https://euvsdisinfo.eu/wp-json/api/v1/disinformation-cases"
+        
+        response = requests.get(
+            api_url,
+            timeout=30,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+                "Accept": "application/json",
+                "Referer": "https://euvsdisinfo.eu/disinformation-cases/"
+            }
+        )
+        
+        if response.status_code == 200:
+            try:
+                data = response.json()
+                cases = data if isinstance(data, list) else data.get("cases", data.get("items", []))
+                
+                for case in cases[:30]:  # Max 30 cases
+                    title = case.get("title", case.get("claim", ""))
+                    url = case.get("url", case.get("link", ""))
+                    
+                    if title:
+                        articles.append({
+                            "url": url or f"https://euvsdisinfo.eu/disinformation-cases/",
+                            "title": f"[DISINFO] {title}",
+                            "domain": "euvsdisinfo.eu",
+                            "language": "english",
+                            "source_type": "factcheck",
+                            "is_factcheck_article": True,
+                            "verdict": "FALSE"  # EUvsDisinfo only lists disinformation
+                        })
+                
+                if articles:
+                    print(f"🔍 EUvsDisinfo API: {len(articles)} disinformation cases")
+                    
+            except Exception as e:
+                print(f"⚠️ EUvsDisinfo JSON parse error: {e}")
+        else:
+            print(f"⚠️ EUvsDisinfo API: HTTP {response.status_code}")
+            
+    except Exception as e:
+        print(f"⚠️ EUvsDisinfo error: {type(e).__name__}")
+    
+    return articles
+
+
 def crawl_gdelt(languages=None, max_articles=30):
     """Fetch articles from GDELT DOC 2.0 API."""
     articles = []
@@ -148,15 +204,23 @@ def crawl_rss_feeds():
         # ===========================================
         # FACT-CHECKERS (bereits identifizierte Fake News!)
         # ===========================================
-        ("https://correctiv.org/faktencheck/feed/", "german", "factcheck"),
+        # GERMAN
+        ("https://correctiv.org/feed/", "german", "factcheck"),  # Enthält auch Faktenchecks
         ("https://www.mimikama.org/feed/", "german", "factcheck"),
-        ("https://www.br.de/nachrichten/faktenfuchs,QzSIzl3/feed", "german", "factcheck"),
-        ("https://www.dpa.com/de/unternehmen/faktencheck#checks/feed", "german", "factcheck"),
+        ("https://www.volksverpetzer.de/feed/", "german", "factcheck"),
+        ("https://www.dpa.com/de/feed/", "german", "factcheck"),
+        
+        # ENGLISH
         ("https://www.snopes.com/feed/", "english", "factcheck"),
         ("https://www.politifact.com/rss/all/", "english", "factcheck"),
         ("https://fullfact.org/feed/", "english", "factcheck"),
         ("https://www.factcheck.org/feed/", "english", "factcheck"),
         ("https://leadstories.com/atom.xml", "english", "factcheck"),
+        ("https://www.poynter.org/feed/", "english", "factcheck"),
+        ("https://africacheck.org/feed/", "english", "factcheck"),
+        
+        # EU DISINFO (via their blog - actual cases are harder to scrape)
+        ("https://euvsdisinfo.eu/feed/", "english", "factcheck"),
         
         # ===========================================
         # REGULAR NEWS (zum Vergleich)
@@ -174,44 +238,75 @@ def crawl_rss_feeds():
             response = requests.get(
                 feed_url, 
                 timeout=15,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; NewsBot/1.0)"}
+                headers={
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                    "Accept": "application/rss+xml, application/xml, text/xml, */*"
+                }
             )
             
             if response.status_code != 200:
+                print(f"⚠️ RSS [{feed_url.split('/')[2][:20]}]: HTTP {response.status_code}")
                 continue
             
             # Simple RSS parsing without external library
             import re
-            items = re.findall(r'<item>(.*?)</item>', response.text, re.DOTALL)
+            content = response.text
+            
+            # Try RSS format first
+            items = re.findall(r'<item>(.*?)</item>', content, re.DOTALL)
             
             # Also try Atom format
             if not items:
-                items = re.findall(r'<entry>(.*?)</entry>', response.text, re.DOTALL)
+                items = re.findall(r'<entry>(.*?)</entry>', content, re.DOTALL)
             
             count = 0
             for item in items[:15]:  # Max 15 per feed
+                # Title
                 title_match = re.search(r'<title>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</title>', item, re.DOTALL)
-                link_match = re.search(r'<link[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</link>', item)
                 
-                # Atom format link
+                # Link - try multiple formats
+                link_match = re.search(r'<link>(?:<!\[CDATA\[)?(https?://[^<\]]+)(?:\]\]>)?</link>', item)
                 if not link_match:
                     link_match = re.search(r'<link[^>]*href=["\']([^"\']+)["\']', item)
+                if not link_match:
+                    link_match = re.search(r'<guid[^>]*>(https?://[^<]+)</guid>', item)
                 
                 if title_match and link_match:
                     url = link_match.group(1).strip()
                     title = title_match.group(1).strip()
                     
-                    # Clean CDATA and HTML
+                    # Clean CDATA and HTML tags
+                    title = re.sub(r'<!\[CDATA\[|\]\]>', '', title)
                     title = re.sub(r'<[^>]+>', '', title)
+                    title = title.strip()
+                    
+                    # Filter: Only include if it looks like a factcheck article
+                    if source_type == "factcheck":
+                        # Check if URL or title contains factcheck indicators
+                        factcheck_keywords = [
+                            "faktencheck", "fakten", "fact", "check", "falsch", "fake", 
+                            "wahr", "true", "false", "debunk", "claim", "verify",
+                            "stimmt", "mythos", "gerücht", "hoax", "misleading",
+                            "disinformation", "misinformation"
+                        ]
+                        url_title_lower = (url + " " + title).lower()
+                        is_factcheck = any(kw in url_title_lower for kw in factcheck_keywords)
+                        
+                        # For correctiv, check if it's from the faktencheck section
+                        if "correctiv.org" in url:
+                            is_factcheck = "/faktencheck/" in url
+                    else:
+                        is_factcheck = False
                     
                     if url and title and url.startswith('http'):
-                        domain = url.split('/')[2] if '/' in url else ""
+                        domain = url.split('/')[2] if len(url.split('/')) > 2 else ""
                         articles.append({
                             "url": url,
                             "title": title,
                             "domain": domain,
                             "language": lang,
-                            "source_type": source_type  # 'factcheck' oder 'mainstream'
+                            "source_type": source_type if not is_factcheck else "factcheck",
+                            "is_factcheck_article": is_factcheck
                         })
                         count += 1
             
@@ -220,7 +315,7 @@ def crawl_rss_feeds():
                 print(f"{emoji} RSS [{feed_url.split('/')[2][:25]}]: {count} articles ({source_type})")
                 
         except Exception as e:
-            print(f"⚠️ RSS error for {feed_url[:40]}: {e}")
+            print(f"⚠️ RSS error for {feed_url.split('/')[2][:20]}: {type(e).__name__}")
     
     return articles
 
@@ -396,8 +491,13 @@ def main():
     # 1. Crawl from multiple sources
     articles = []
     
-    # Try GDELT first
-    print("📡 Trying GDELT...")
+    # Try EUvsDisinfo first (most valuable - confirmed disinfo)
+    print("📡 Trying EUvsDisinfo...")
+    euvsdisinfo_articles = crawl_euvsdisinfo()
+    articles.extend(euvsdisinfo_articles)
+    
+    # Try GDELT
+    print("\n📡 Trying GDELT...")
     gdelt_articles = crawl_gdelt()
     articles.extend(gdelt_articles)
     
@@ -428,7 +528,7 @@ def main():
     results = []
     processed = 0
     
-    for article in articles[:200]:  # Process up to 200 articles
+    for article in articles[:50]:  # Process up to 50 articles
         url = article["url"]
         domain = article.get("domain", "")
         source_type = article.get("source_type", "unknown")
