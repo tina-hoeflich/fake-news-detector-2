@@ -529,8 +529,7 @@ def main():
     processed = 0
     
     for article in articles[:200]:  # Process up to 
-5
-0 articles
+
         url = article["url"]
         domain = article.get("domain", "")
         source_type = article.get("source_type", "unknown")
@@ -562,8 +561,7 @@ def main():
                     "checked_at": datetime.utcnow().isoformat()
                 })
                 processed += 1
-                print(f"  🚨 DEBUNKED: {domain} - {title[:5
-0]}...")
+                print(f"  🚨 DEBUNKED: {domain} - {title[:50]}...")
                 continue
         
         # Regular processing for non-factcheck articles
