@@ -561,7 +561,7 @@ def main():
                     "checked_at": datetime.utcnow().isoformat()
                 })
                 processed += 1
-                print(f"  🚨 DEBUNKED: {domain} - {title[:200]}...")
+                print(f"  🚨 DEBUNKED: {domain} - {title[:50]}...")
                 continue
         
         # Regular processing for non-factcheck articles
