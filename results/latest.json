@@ -1,135 +1,5 @@
 [
   {
-    "claim": "Trump first told Feinberg to &quot;be careful&quot; after Feinberg questioned why the new whistleblower program offered a 1% commission when the False Claims Act can award whistleblowers 10% to 25%",
-    "source_url": "https://news3lv.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "news3lv.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:46.279428"
-  },
-  {
-    "claim": "&quot; &quot;Over 99% of the fraud that we&#x27;re finding in the federal government isn&#x27;t covered by the False Claims Act,&quot; Vance said",
-    "source_url": "https://news3lv.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "news3lv.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:46.547862"
-  },
-  {
-    "claim": "Trump first told Feinberg to &quot;be careful&quot; after Feinberg questioned why the new whistleblower program offered a 1% commission when the False Claims Act can award whistleblowers 10% to 25%",
-    "source_url": "https://cbs6albany.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "cbs6albany.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:47.480543"
-  },
-  {
-    "claim": "&quot; &quot;Over 99% of the fraud that we&#x27;re finding in the federal government isn&#x27;t covered by the False Claims Act,&quot; Vance said",
-    "source_url": "https://cbs6albany.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "cbs6albany.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:47.690206"
-  },
-  {
-    "claim": "Trump first told Feinberg to &quot;be careful&quot; after Feinberg questioned why the new whistleblower program offered a 1% commission when the False Claims Act can award whistleblowers 10% to 25%",
-    "source_url": "https://fox17.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "fox17.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:48.279372"
-  },
-  {
-    "claim": "&quot; &quot;Over 99% of the fraud that we&#x27;re finding in the federal government isn&#x27;t covered by the False Claims Act,&quot; Vance said",
-    "source_url": "https://fox17.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "fox17.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:48.480707"
-  },
-  {
-    "claim": "Trump first told Feinberg to &quot;be careful&quot; after Feinberg questioned why the new whistleblower program offered a 1% commission when the False Claims Act can award whistleblowers 10% to 25%",
-    "source_url": "https://ktxs.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "ktxs.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:49.709304"
-  },
-  {
-    "claim": "&quot; &quot;Over 99% of the fraud that we&#x27;re finding in the federal government isn&#x27;t covered by the False Claims Act,&quot; Vance said",
-    "source_url": "https://ktxs.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "ktxs.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:49.916057"
-  },
-  {
-    "claim": "Trump first told Feinberg to &quot;be careful&quot; after Feinberg questioned why the new whistleblower program offered a 1% commission when the False Claims Act can award whistleblowers 10% to 25%",
-    "source_url": "https://wwmt.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "wwmt.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:52.192764"
-  },
-  {
-    "claim": "&quot; &quot;Over 99% of the fraud that we&#x27;re finding in the federal government isn&#x27;t covered by the False Claims Act,&quot; Vance said",
-    "source_url": "https://wwmt.com/news/nation-world/you-better-be-careful-trump-clashes-with-reporters-during-heated-white-house-exchange-news-media-press-conference-journalists-fake-news-oval-office-politics-president-donald-trump",
-    "source_domain": "wwmt.com",
-    "article_title": "&#x27;You better be careful&#x27;: Trump clashes with reporter during heated White House exchange",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "unknown",
-    "checked_at": "2026-10-20T21:20:52.402695"
-  },
-  {
     "claim": "Der Telegram-Kanal hat mehr als 1,5 Millionen Abonnenten und verbreitet russische Narrative über den Krieg gegen die Ukraine",
     "source_url": "https://correctiv.org/aktuelles/russland-ukraine-2/2026/10/19/propaganda-trotz-sanktionen-taetigkeit-zweier-russischer-korrespondenten-wirft-fragen-auf/",
     "source_domain": "correctiv.org",
@@ -140,20 +10,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:20:58.573310"
-  },
-  {
-    "claim": "Aus sanktionsrechtlicher Perspektive wirft auch die offizielle Beschäftigung der Russen Fragen auf",
-    "source_url": "https://correctiv.org/aktuelles/russland-ukraine-2/2026/10/19/propaganda-trotz-sanktionen-taetigkeit-zweier-russischer-korrespondenten-wirft-fragen-auf/",
-    "source_domain": "correctiv.org",
-    "article_title": "Tätigkeit zweier russischer Korrespondenten wirft Fragen auf",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:20:58.780034"
+    "checked_at": "2026-10-21T03:41:03.891089"
   },
   {
     "claim": "Petition unterstützen Ermittlungen gegen zwölf Beschuldigte Die zuständige Staatsanwaltschaft Dortmund bestätigte auf CORRECTIV-Anfrage im Wesentlichen die Informationen, die CORRECTIV zugespielt wurden",
@@ -166,7 +23,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:20:59.943031"
+    "checked_at": "2026-10-21T03:41:04.607496"
   },
   {
     "claim": "&nbsp; Der Fall Brosius-Gersdorf zeigt laut Experten exemplarisch, wie Frauen in der Öffentlichkeit attackiert werden",
@@ -179,7 +36,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:01.116482"
+    "checked_at": "2026-10-21T03:41:05.315821"
   },
   {
     "claim": "“ Maßgeblich beteiligt am Scheitern der Wahl war laut Expertinnen und Berichten eine Kampagne unter Beteiligung rechter Alternativmedien, in der viele ihrer Positionen verzerrt oder",
@@ -192,7 +49,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:01.322151"
+    "checked_at": "2026-10-21T03:41:05.400374"
   },
   {
     "claim": "Diana hält die Szene mit ihrer Handykamera fest, dann klingelt sie beim befreundeten Nachbarn und spült alle Tabletten die Toilette hinunter",
@@ -205,7 +62,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:02.463751"
+    "checked_at": "2026-10-21T03:41:06.088398"
   },
   {
     "claim": "Bis 2045 soll die Quote auf 100 Prozent steigen",
@@ -218,7 +75,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:05.325747"
+    "checked_at": "2026-10-21T03:41:07.999304"
   },
   {
     "claim": "Die Erlöse würden bei Eva Gross auf dem Konto landen – im besten Fall das eingezahlte Kapital plus einer jährlichen Rendite von bis zu 12 Prozent",
@@ -231,7 +88,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:08.573830"
+    "checked_at": "2026-10-21T03:41:09.880486"
   },
   {
     "claim": "&nbsp; Bis heute keine Erlöse Zweifel hatte Eva Gross nicht: „Ich dachte: Es ist ja ein Schweizer Unternehmen, das kann ja nur seriös sein",
@@ -244,7 +101,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:08.772121"
+    "checked_at": "2026-10-21T03:41:09.989651"
   },
   {
     "claim": "Ein gerichtliches Gutachten bestätigt, dass der Missbrauch durch einen Priester die psychische und soziale Entwicklung von Perr nachhaltig beeinträchtigt hat",
@@ -257,7 +114,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:10.083397"
+    "checked_at": "2026-10-21T03:41:10.677539"
   },
   {
     "claim": "Foto: Sven Hoppe / picture alliance Ein sexueller Übergriff kann das Leben eines Menschen für immer verändern",
@@ -270,7 +127,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:10.284865"
+    "checked_at": "2026-10-21T03:41:10.757726"
   },
   {
     "claim": "Dies ist keine isolierte Krise, sondern eine koordinierte globale Verschiebung – eine Warnung, bevor Demokratien zu einer fernen Erinnerung verblassen",
@@ -283,7 +140,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:12.409728"
+    "checked_at": "2026-10-21T03:41:11.994014"
   },
   {
     "claim": "September 2026 führte Ulrich Siegmund die AfD in Sachsen-Anhalt auf 43,8 Prozent",
@@ -296,7 +153,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:12.669935"
+    "checked_at": "2026-10-21T03:41:12.072846"
   },
   {
     "claim": "Zwei Wochen später wurde die AfD auch in Mecklenburg-Vorpommern stärkste Kraft, mit 38,2 Prozent, während Berlin in die entgegengesetzte Richtung ausschlug",
@@ -309,7 +166,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:12.871747"
+    "checked_at": "2026-10-21T03:41:12.153090"
   },
   {
     "claim": "&nbsp; Dem Glücksspielbetreiber wurde laut Financial Times unter anderem vorgeworfen, Steuern in Höhe von 560 Millionen Euro hinterzogen zu haben",
@@ -322,7 +179,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:14.009180"
+    "checked_at": "2026-10-21T03:41:12.844332"
   },
   {
     "claim": "[DEBUNKED] Frankreich: Video zeigt Musikdreh statt Studentenproteste",
@@ -335,7 +192,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:15.157947"
+    "checked_at": "2026-10-21T03:41:13.561639"
   },
   {
     "claim": "[DEBUNKED] Schwangere mit Albanien-Flagge: KI-Bild statt Protestfoto",
@@ -348,7 +205,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:16.373363"
+    "checked_at": "2026-10-21T03:41:13.746564"
   },
   {
     "claim": "[DEBUNKED] Mann verteidigt Geschäft in Nizza: Das Foto ist echt",
@@ -361,7 +218,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:17.574028"
+    "checked_at": "2026-10-21T03:41:14.459159"
   },
   {
     "claim": "[DEBUNKED] Trump in der Sauna: Kein Post des Weißen Hauses",
@@ -374,7 +231,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:18.544915"
+    "checked_at": "2026-10-21T03:41:15.100009"
   },
   {
     "claim": "[DEBUNKED] Flaggen am Eiffelturm: Dieses Video ist gefälscht",
@@ -387,7 +244,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:19.708282"
+    "checked_at": "2026-10-21T03:41:15.826128"
   },
   {
     "claim": "[DEBUNKED] KI-Bildapps: Lücken beim Jugendschutz in US-Test",
@@ -400,7 +257,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:20.793377"
+    "checked_at": "2026-10-21T03:41:16.318326"
   },
   {
     "claim": "[DEBUNKED] INTERPOL warnt vor Deepfake-Betrug",
@@ -413,7 +270,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:21.416343"
+    "checked_at": "2026-10-21T03:41:17.052506"
   },
   {
     "claim": "000 Euro Schaden meldet die Polizei einen Tatverdächtigen",
@@ -426,7 +283,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:22.804636"
+    "checked_at": "2026-10-21T03:41:17.544946"
   },
   {
     "claim": "Der Beschuldigte stammt aus Wien und zeigte sich bei seiner Einvernahme laut Polizei nicht geständig",
@@ -439,7 +296,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:23.086179"
+    "checked_at": "2026-10-21T03:41:17.624118"
   },
   {
     "claim": "Mit dem übermittelten Code erlangte der Anrufer laut Polizei Zugriff auf das Konto",
@@ -452,7 +309,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:23.335992"
+    "checked_at": "2026-10-21T03:41:17.706981"
   },
   {
     "claim": "[DEBUNKED] Gefälschte GMX-Mail fordert zum Anruf auf",
@@ -465,7 +322,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:23.980081"
+    "checked_at": "2026-10-21T03:41:18.103966"
   },
   {
     "claim": "[DEBUNKED] Feuerwerkskanone in Paris? Video stammt aus Georgien",
@@ -478,7 +335,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:24.781777"
+    "checked_at": "2026-10-21T03:41:18.805478"
   },
   {
     "claim": "[DEBUNKED] Zirbeldrüse bei Geimpften: Falsche Obduktionsbehauptung",
@@ -491,7 +348,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:25.562957"
+    "checked_at": "2026-10-21T03:41:19.195973"
   },
   {
     "claim": "[DEBUNKED] Paris in Flammen: KI-Nachweis beim angeblichen Pilotenfoto",
@@ -504,7 +361,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:26.395144"
+    "checked_at": "2026-10-21T03:41:19.399169"
   },
   {
     "claim": "[DEBUNKED] Frankreich: Altes Video als aktuelle Schulproteste geteilt",
@@ -517,7 +374,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:27.010715"
+    "checked_at": "2026-10-21T03:41:19.890397"
   },
   {
     "claim": "[DEBUNKED] Paris: Musikfest-Video als Schülerprotest verbreitet",
@@ -530,7 +387,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:27.789030"
+    "checked_at": "2026-10-21T03:41:20.602808"
   },
   {
     "claim": "[DEBUNKED] Polizei ohrfeigt Frau: Video aus Belgien, nicht Frankreich",
@@ -543,7 +400,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:29.083169"
+    "checked_at": "2026-10-21T03:41:21.326077"
   },
   {
     "claim": "950 © Carsten Koall/dpa“Aggressiv-kämpferisch”: Es braucht keine AfD-Gewalt für ein erfolgreiches AfD-Verbot von Gastbeitrag | Analyse | 16",
@@ -556,7 +413,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:30.205494"
+    "checked_at": "2026-10-21T03:41:21.893965"
   },
   {
     "claim": "Das Problem: Diese Hürde hat das Bundesverfassungsgericht längst gestrichen - und mit Gewalt hatte sie noch nie etwas zu tun",
@@ -569,7 +426,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:30.539550"
+    "checked_at": "2026-10-21T03:41:21.973958"
   },
   {
     "claim": "Seitdem ist er keine eigenständige Voraussetzung des Parteiverbots mehr (Ogorek, Moini, Thiele, DIMR, S",
@@ -582,7 +439,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:30.768143"
+    "checked_at": "2026-10-21T03:41:22.052421"
   },
   {
     "claim": "[DEBUNKED] Peinlich! AfD Cloppenburg halbiert selbstverschuldet die Anzahl ihrer Sitze - Volksverpetzer",
@@ -595,7 +452,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:31.556340"
+    "checked_at": "2026-10-21T03:41:22.546536"
   },
   {
     "claim": "[DEBUNKED] McRib-Fake: AfD blamiert sich mit Schweinefleisch-Sozialismus! - Volksverpetzer",
@@ -608,7 +465,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:32.345688"
+    "checked_at": "2026-10-21T03:41:23.043949"
   },
   {
     "claim": "[DEBUNKED] Faktencheck: Kein rechter Fake-Account-Rückgang nach Yandex-Angriff - Volksverpetzer",
@@ -621,7 +478,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:33.387378"
+    "checked_at": "2026-10-21T03:41:23.531851"
   },
   {
     "claim": "Wirtschaft ist auf Zuwanderung angewiesen Der Fach- und Arbeitskräftemangel ist der Hauptgrund, warum immer mehr Eingewanderte oder ihre Kinder in vielen Berufen arbeiten – übrigens auch in besser bezahlten Berufen",
@@ -634,7 +491,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:35.967099"
+    "checked_at": "2026-10-21T03:41:25.104871"
   },
   {
     "claim": "Deutschlands Bevölkerung wird immer älter, Zuwanderer übernehmen die meisten der neu geschaffenen Jobs",
@@ -647,7 +504,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:36.171058"
+    "checked_at": "2026-10-21T03:41:25.185141"
   },
   {
     "claim": "Die Zahl der ausländischen Beschäftigten ist in den letzten Jahren von 3,5 auf mehr als 6,5 Millionen gestiegen, ihre Arbeitslosenquote sogar leicht zurückgegangen",
@@ -660,7 +517,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:36.399909"
+    "checked_at": "2026-10-21T03:41:25.264791"
   },
   {
     "claim": "Ob der völkisch-rechtsextreme Hans-Thomas Tillschneider ebenfalls mit CDU-Unterstützung zum Vize gewählt wurde, werden wir vermutlich nie erfahren",
@@ -673,7 +530,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:37.407148"
+    "checked_at": "2026-10-21T03:41:25.830035"
   },
   {
     "claim": "Noch-Ministerpräsident Sven Schulze hatte am Wahlabend versichert, er erwarte keine Abweichler",
@@ -686,7 +543,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:37.608110"
+    "checked_at": "2026-10-21T03:41:25.908978"
   },
   {
     "claim": "Der \"Bild am Sonntag\" gibt sie zu Protokoll, SPD und Grüne dürften der Berliner Linken, die die Abgeordnetenhauswahl mit 25,7 Prozent gewonnen hat, \"auf gar keinen Fall die Hand zur Machtergreifung hier erreichen\"",
@@ -699,7 +556,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:37.820420"
+    "checked_at": "2026-10-21T03:41:25.989966"
   },
   {
     "claim": "Alle drei sollen für die AfD gearbeitet haben",
@@ -712,7 +569,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:38.798968"
+    "checked_at": "2026-10-21T03:41:26.564934"
   },
   {
     "claim": "[DEBUNKED] Ilhan Omar didn't flee to Morocco after federal agents' raid on her home | Snopes.com",
@@ -725,7 +582,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:38.893909"
+    "checked_at": "2026-10-21T03:41:26.759998"
   },
   {
     "claim": "[DEBUNKED] Poll workers may mark your ballot. Here's why you shouldn't worry | Snopes.com",
@@ -738,7 +595,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:39.080361"
+    "checked_at": "2026-10-21T03:41:26.960726"
   },
   {
     "claim": "The reports say the layoffs, which would affect approximately 37% of Kroger's 8,200 corporate employees, will be spread out over three years, but the exact details have not yet been determined",
@@ -751,7 +608,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:39.611979"
+    "checked_at": "2026-10-21T03:41:27.248411"
   },
   {
     "claim": "[DEBUNKED] Why vote count spikes are a normal part of elections | Snopes.com",
@@ -764,7 +621,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:39.859145"
+    "checked_at": "2026-10-21T03:41:27.448898"
   },
   {
     "claim": "[DEBUNKED] Is your ballot disqualified if poll workers mark it? Here's the truth | Snopes.com",
@@ -777,7 +634,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:39.952746"
+    "checked_at": "2026-10-21T03:41:27.550134"
   },
   {
     "claim": "[DEBUNKED] 10 rumors we've investigated involving Pope Leo XIV | Snopes.com",
@@ -790,7 +647,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:40.044434"
+    "checked_at": "2026-10-21T03:41:27.686360"
   },
   {
     "claim": "[DEBUNKED] Did Texas make marijuana possession a felony after 70% of voters supported legalization? Claim distorts facts | Snopes.com",
@@ -803,7 +660,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:40.354697"
+    "checked_at": "2026-10-21T03:41:27.973423"
   },
   {
     "claim": "[DEBUNKED] 16 claims about Hegseth we've debunked | Snopes.com",
@@ -816,20 +673,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:40.581191"
-  },
-  {
-    "claim": "[DEBUNKED] Kmart used to sell pet monkeys in the 1960s. It wasn't alone | Snopes.com",
-    "source_url": "https://www.snopes.com/fact-check/kmart-sell-monkeys-1960s/",
-    "source_domain": "www.snopes.com",
-    "article_title": "Kmart used to sell pet monkeys in the 1960s. It wasn't alone | Snopes.com",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "www.snopes.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:40.725670"
+    "checked_at": "2026-10-21T03:41:28.173143"
   },
   {
     "claim": "[DEBUNKED] Viral image of protesters waving Palestinian flags outside the Eiffel Tower is AI-generated – Full Fact",
@@ -842,7 +686,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:42.091254"
+    "checked_at": "2026-10-21T03:41:29.155963"
   },
   {
     "claim": "[DEBUNKED] Video of woman being dragged by uniformed men does not show forced conscription in Ukraine – Full Fact",
@@ -855,7 +699,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:43.537367"
+    "checked_at": "2026-10-21T03:41:30.028056"
   },
   {
     "claim": "[DEBUNKED] Fake image of wildlife park tiger attack circulates online – Full Fact",
@@ -868,7 +712,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:44.365571"
+    "checked_at": "2026-10-21T03:41:30.571044"
   },
   {
     "claim": "[DEBUNKED] Compilation video of Zelenskyy belly dancing includes AI deepfakes – Full Fact",
@@ -881,7 +725,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:45.928908"
+    "checked_at": "2026-10-21T03:41:31.397331"
   },
   {
     "claim": "[DEBUNKED] AI video of plane at Riyadh airport exploding circulates online – Full Fact",
@@ -894,7 +738,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:46.782579"
+    "checked_at": "2026-10-21T03:41:31.997425"
   },
   {
     "claim": "[DEBUNKED] Small boat crossings predate Brexit – Full Fact",
@@ -907,7 +751,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:47.581570"
+    "checked_at": "2026-10-21T03:41:32.461572"
   },
   {
     "claim": "[DEBUNKED] Old and fake videos shared as Riyadh airport attacks – Full Fact",
@@ -920,7 +764,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:48.184271"
+    "checked_at": "2026-10-21T03:41:32.859846"
   },
   {
     "claim": "[DEBUNKED] Ads in Maine Make Misleading Tax Claims About Jackson - FactCheck.org",
@@ -933,7 +777,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:48.497246"
+    "checked_at": "2026-10-21T03:41:33.256645"
   },
   {
     "claim": "[DEBUNKED] Democratic Ads Exaggerate GOP Law&#039;s Impact on Medicare - FactCheck.org",
@@ -946,7 +790,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:49.284059"
+    "checked_at": "2026-10-21T03:41:33.639542"
   },
   {
     "claim": "[DEBUNKED] Alaska Ad Criticizing Sullivan&#039;s Votes Leaves Out Context, Makes False Suggestion - FactCheck.org",
@@ -959,7 +803,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:50.236069"
+    "checked_at": "2026-10-21T03:41:34.320788"
   },
   {
     "claim": "[DEBUNKED] Talarico&#039;s Campaign-Trail Absence Sparks False Rumor - FactCheck.org",
@@ -972,7 +816,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:51.195113"
+    "checked_at": "2026-10-21T03:41:34.815225"
   },
   {
     "claim": "[DEBUNKED] Trump Officials Mislead About Electrical Grid Reliability - FactCheck.org",
@@ -985,7 +829,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:51.896750"
+    "checked_at": "2026-10-21T03:41:35.447875"
   },
   {
     "claim": "[DEBUNKED] Republican Ads Distort the Facts in Claiming Democratic Support for &#039;Sex Changes&#039; for Kids - FactCheck.org",
@@ -998,7 +842,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:52.561020"
+    "checked_at": "2026-10-21T03:41:35.796118"
   },
   {
     "claim": "[DEBUNKED] Misleading GOP Attacks Over Taxes on Tips, Overtime, Social Security - FactCheck.org",
@@ -1011,7 +855,46 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:54.097021"
+    "checked_at": "2026-10-21T03:41:36.866596"
+  },
+  {
+    "claim": "[DEBUNKED] Fact Check: FAKE Video Shows People Fishing iPhones Out of Water After Missile Attack on Ship in Strait of Hormuz -- It Is AI | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-shows-people-fishing-iphones-out-of-water-after-missile-attack-on-ship-in-strait-of-hormuz-it-is-ai.html",
+    "source_domain": "leadstories.com",
+    "article_title": "Fact Check: FAKE Video Shows People Fishing iPhones Out of Water After Missile Attack on Ship in Str",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "leadstories.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-10-21T03:41:37.932015"
+  },
+  {
+    "claim": "[DEBUNKED] Fact Check: Video Of Palestinian Flag at Tower of Pisa Does Not Show October 2026 Italian Protests -- It's From 2023 | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-video-of-palestinian-flag-at-tower-of-pisa-does-not-show-october-2026-italian-protests-its-from-2023.html",
+    "source_domain": "leadstories.com",
+    "article_title": "Fact Check: Video Of Palestinian Flag at Tower of Pisa Does Not Show October 2026 Italian Protests -",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "leadstories.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-10-21T03:41:38.056988"
+  },
+  {
+    "claim": "[DEBUNKED] Fact Check: FAKE Photo Shows Netanyahu In Front Of Whiteboard Plan Involving \"SPAIN\" -- Generated With OpenAI | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-photo-shows-netanyahu-in-front-of-whiteboard-plan-involving-spain-generated-with-openai.html",
+    "source_domain": "leadstories.com",
+    "article_title": "Fact Check: FAKE Photo Shows Netanyahu In Front Of Whiteboard Plan Involving \"SPAIN\" -- Generated Wi",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "leadstories.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-10-21T03:41:38.182162"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Flyers Were NOT Sent By 'Texas Transgender Student Union' -- There Is NO Such Group | Lead Stories",
@@ -1024,7 +907,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:55.317487"
+    "checked_at": "2026-10-21T03:41:38.321900"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Eiffel Tower Did NOT Burn, Fall Down During October 2026 Protests In Paris -- Videos Are AI-Generated | Lead Stories",
@@ -1037,7 +920,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:55.508645"
+    "checked_at": "2026-10-21T03:41:38.495369"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Security Camera Video Shows A Large Bull Shark Near Dock In Cape Coral, Florida, Is AI-Generated | Lead Stories",
@@ -1050,7 +933,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:55.689257"
+    "checked_at": "2026-10-21T03:41:38.635749"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Denzel Washington Did NOT Say He 'Never Met Anyone Braver, Smarter Or Who Cares More About America Than Donald Trump' | Lead Stories",
@@ -1063,7 +946,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:55.870649"
+    "checked_at": "2026-10-21T03:41:38.758525"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Image Of Elderly French Couple Robbed Of Clothing During Oct. 17 Riots -- AI Image Illustrates Unconfirmed Incident | Lead Stories",
@@ -1076,7 +959,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.044709"
+    "checked_at": "2026-10-21T03:41:38.901050"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Photo Shows Indiana Fan Who Looks Like Charlie Kirk At Ohio State Game -- It's AI-Generated  | Lead Stories",
@@ -1089,7 +972,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.223638"
+    "checked_at": "2026-10-21T03:41:39.040825"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Video Of Trump With Blond Giants Does NOT Show Real Event -- It is AI-Generated | Lead Stories",
@@ -1102,7 +985,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.396769"
+    "checked_at": "2026-10-21T03:41:39.186540"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Law Enforcement Did NOT Name Deputy Rachel Taylor As Suspect In The Fatal Wichita Stryker Car Ramming | Lead Stories",
@@ -1115,7 +998,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.573710"
+    "checked_at": "2026-10-21T03:41:39.315753"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Video Shows Palestinian And Jordanian Flags On Top Of The Eiffel Tower In Paris -- It Is Digitally Fabricated | Lead Stories",
@@ -1128,7 +1011,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.742473"
+    "checked_at": "2026-10-21T03:41:39.481010"
   },
   {
     "claim": "[DEBUNKED] Fact Check: The White House Did NOT Post Image Of Trump And Other Half-Naked Men In Sauna -- It Came From Satire Account | Lead Stories",
@@ -1141,7 +1024,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:56.925003"
+    "checked_at": "2026-10-21T03:41:39.627175"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Video Of AI Recruiter Job Interview With AI Agent Representing Applicant Is NOT Real -- It's A Staged Parody | Lead Stories",
@@ -1154,7 +1037,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:57.109533"
+    "checked_at": "2026-10-21T03:41:39.751428"
   },
   {
     "claim": "[DEBUNKED] Fact Check: 'Atheist Haydn Sophie Dollery' Is NOT The Silver Rail Elementary Shooting Suspect -- Photo Is From A Virginia Case | Lead Stories",
@@ -1167,46 +1050,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:57.298328"
-  },
-  {
-    "claim": "[DEBUNKED] Prebunk: AI-Generated Old-Price Supermarket Comparisons To Prove Inflation Do Not Add Up -- We Brought Receipts | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/10/prebunk-ai-generated-supermarket-old-price-comparisons-to-prove-inflation-dont-add-up.html",
-    "source_domain": "leadstories.com",
-    "article_title": "Prebunk: AI-Generated Old-Price Supermarket Comparisons To Prove Inflation Do Not Add Up -- We Broug",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "leadstories.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:57.489879"
-  },
-  {
-    "claim": "[DEBUNKED] Fact Check: Trump Did NOT Post A Truth Social Message That Included 'LEAVE THE REFINERIES ALONE' -- It Is A Fabricated Screenshot | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/10/trump-did-not-post-truth-social-message-leave-refineries-alone-fabricated-screenshot.html",
-    "source_domain": "leadstories.com",
-    "article_title": "Fact Check: Trump Did NOT Post A Truth Social Message That Included 'LEAVE THE REFINERIES ALONE' -- ",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "leadstories.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:57.725249"
-  },
-  {
-    "claim": "[DEBUNKED] Fact Check: NO Evidence JD Vance Is Scheduled To Visit Pope Leo XIV After Surgery And Cancer Diagnosis | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-no-evidence-jd-vance-is-scheduled-to-visit-pope-leo-after-cancer-diagnosis.html",
-    "source_domain": "leadstories.com",
-    "article_title": "Fact Check: NO Evidence JD Vance Is Scheduled To Visit Pope Leo XIV After Surgery And Cancer Diagnos",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "leadstories.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:57.966037"
+    "checked_at": "2026-10-21T03:41:39.907578"
   },
   {
     "claim": "Burnett counted on the federally chartered Corporation for Public Broadcasting — the nonprofit that distributed federal funds to local television and radio stations nationwide — to provide $215,000 a year, or about 15% of the station’s annual budget",
@@ -1219,7 +1063,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:58.322162"
+    "checked_at": "2026-10-21T03:41:40.141593"
   },
   {
     "claim": "[DEBUNKED] Your journalism resume is probably too vague. Here&#039;s how to fix it. - Poynter",
@@ -1232,7 +1076,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.poynter.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:58.636246"
+    "checked_at": "2026-10-21T03:41:40.408331"
   },
   {
     "claim": "[DEBUNKED] The White House has a workaround when networks refuse to replace CNN - Poynter",
@@ -1245,7 +1089,228 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.poynter.org",
     "source_type": "factcheck",
-    "checked_at": "2026-10-20T21:21:58.837191"
+    "checked_at": "2026-10-21T03:41:40.578473"
+  },
+  {
+    "claim": "Tipps für Ihre Finanzen – immer mittwochs image\"> Foto: Felix Schmitt Ausgabe Nr",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-und-geld-wuerden-sie-der-ki-ihre-geldanlage-anvertrauen-auf-keinen-fall-a-7cca6bd7-e10c-4060-8afc-b83ba4914ab9#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT und Geld: Würden Sie der KI Ihre Geldanlage anvertrauen? - »Auf keinen Fall« - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:49.543303"
+  },
+  {
+    "claim": "2026 • Alle Ausgaben aufklappen Automatisch erstellt mit KI",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-und-geld-wuerden-sie-der-ki-ihre-geldanlage-anvertrauen-auf-keinen-fall-a-7cca6bd7-e10c-4060-8afc-b83ba4914ab9#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT und Geld: Würden Sie der KI Ihre Geldanlage anvertrauen? - »Auf keinen Fall« - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:49.628099"
+  },
+  {
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-und-geld-wuerden-sie-der-ki-ihre-geldanlage-anvertrauen-auf-keinen-fall-a-7cca6bd7-e10c-4060-8afc-b83ba4914ab9#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT und Geld: Würden Sie der KI Ihre Geldanlage anvertrauen? - »Auf keinen Fall« - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:49.713741"
+  },
+  {
+    "claim": "Tipps für Ihre Finanzen – immer mittwochs image\"> Foto: Carolin Eitel Ausgabe Nr",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-gegen-msci-world-so-viel-mehr-rendite-holte-die-ki-heraus-was-das-fuer-ihr-depot-bedeutet-a-82e590f0-b224-498d-8a80-1a8ce1221443#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT gegen MSCI World: So viel mehr Rendite holte die KI heraus – was das für Ihr Depot bedeutet ",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:50.387028"
+  },
+  {
+    "claim": "2026 • Alle Ausgaben aufklappen Automatisch erstellt mit KI",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-gegen-msci-world-so-viel-mehr-rendite-holte-die-ki-heraus-was-das-fuer-ihr-depot-bedeutet-a-82e590f0-b224-498d-8a80-1a8ce1221443#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT gegen MSCI World: So viel mehr Rendite holte die KI heraus – was das für Ihr Depot bedeutet ",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:50.465109"
+  },
+  {
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/wirtschaft/service/chatgpt-gegen-msci-world-so-viel-mehr-rendite-holte-die-ki-heraus-was-das-fuer-ihr-depot-bedeutet-a-82e590f0-b224-498d-8a80-1a8ce1221443#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "ChatGPT gegen MSCI World: So viel mehr Rendite holte die KI heraus – was das für Ihr Depot bedeutet ",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:50.545847"
+  },
+  {
+    "claim": "Dezember 2019 die Verfilmung des Andrew-Lloyd-Webber-Musicals »Cats« im Kino erschien, waren sich ziemlich schnell ziemlich alle einig: Das war nichts",
+    "source_url": "https://www.spiegel.de/kultur/judi-dench-schauspielerin-rechnet-in-memoiren-mit-cats-film-ab-a-81462d61-4e62-4622-b376-3c33e8c925bb#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Judi Dench: Schauspielerin rechnet in Memoiren mit »Cats«-Film ab - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:52.580678"
+  },
+  {
+    "claim": "»In diesem Film haben wirklich alle alles falsch gemacht: der Regisseur, die Autoren, die Animationsspezialisten, selbst die Schauspieler«, hieß es in der SPIEGEL-Rezension&nbsp;",
+    "source_url": "https://www.spiegel.de/kultur/judi-dench-schauspielerin-rechnet-in-memoiren-mit-cats-film-ab-a-81462d61-4e62-4622-b376-3c33e8c925bb#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Judi Dench: Schauspielerin rechnet in Memoiren mit »Cats«-Film ab - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:52.660595"
+  },
+  {
+    "claim": "Dies habe dazu geführt, dass schnell fliegende ukrainische Drohnen funktionsunfähig geworden seien, weil sie keine Datenverbindung mehr aufbauen konnten, hieß es in dem \"WSJ\"-Bericht",
+    "source_url": "https://www.spiegel.de/ausland/musk-soll-starshield-einschraenkung-fuer-ukraine-angeordnet-haben-a-abd3b01f-21d3-42b5-959c-6577080c6984#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Musk soll Starshield-Einschränkung für Ukraine angeordnet haben - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:53.352325"
+  },
+  {
+    "claim": "Vergangene Woche erklärte er, dass »alle Begrenzungen bei Geschwindigkeit oder Nutzung« der Starshield-Systeme vom US-Militär und »letztlich« vom US-Präsidenten entschieden würd",
+    "source_url": "https://www.spiegel.de/ausland/musk-soll-starshield-einschraenkung-fuer-ukraine-angeordnet-haben-a-abd3b01f-21d3-42b5-959c-6577080c6984#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Musk soll Starshield-Einschränkung für Ukraine angeordnet haben - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:53.435718"
+  },
+  {
+    "claim": "length - 1, 500, false)\" data-area=\"nav-bar\" data-app-hidden x-lazyload> Menü Startseite Wirtschaft SpaceX (Space Exploration Technologies Corporation) SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla $swiper",
+    "source_url": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:54.121031"
+  },
+  {
+    "claim": "Musk ist Großaktionär beider Firmen – und diese Anteile sind die Basis seines Vermögens von geschätzt rund 920 Milliarden Dollar (820 Milliarden Euro)",
+    "source_url": "https://www.spiegel.de/wirtschaft/spacex-verdoppelt-umsatz-und-prueft-laut-elon-musk-zusammenschluss-mit-tesla-a-3779587d-36cd-4217-8f8c-cc60ecd06c47#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "SpaceX verdoppelt Umsatz und prüft laut Elon Musk Zusammenschluss mit Tesla - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:54.200016"
+  },
+  {
+    "claim": "Der Hotelbetrieb kann aber laut Feuerwehr weiterlaufen",
+    "source_url": "https://www.spiegel.de/panorama/zwei-verletzte-nach-einsturz-von-hoteldecke-in-duesseldorf-a-3ad79766-dd90-4ba0-b58a-be0f233efe2d#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Zwei Verletzte nach Einsturz von Hoteldecke in Düsseldorf - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:54.867757"
+  },
+  {
+    "claim": "25%;\" :style=\"{minHeight: typeof iframeHeight === 'number' && iframeIsLoaded",
+    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-verpasst-sieg-gegen-atletico-madrid-a-f6f68fd6-3a52-404d-9616-236e07a85315#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:55.581952"
+  },
+  {
+    "claim": "25%',}\" x-lazyload> Besonders in der ersten Halbzeit spielte sich das Team von Sebastian Hoeneß zahlreiche Chancen heraus und war insgesamt griffiger in den Zweikämpfen",
+    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-vfb-stuttgart-verpasst-sieg-gegen-atletico-madrid-a-f6f68fd6-3a52-404d-9616-236e07a85315#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Champions League: VfB Stuttgart verpasst Sieg gegen Atlético Madrid - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:55.662931"
+  },
+  {
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-schlaegt-fc-barcelona-4-2-lamine-yamal-mit-patzer-und-traumtor-a-19a2d198-250c-47e4-8b7f-fd3e1d1a9b52#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumto",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:56.350585"
+  },
+  {
+    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-paris-saint-germain-schlaegt-fc-barcelona-4-2-lamine-yamal-mit-patzer-und-traumtor-a-19a2d198-250c-47e4-8b7f-fd3e1d1a9b52#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Champions League: Paris Saint-Germain schlägt FC Barcelona 4:2 – Lamine Yamal mit Patzer und Traumto",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:41:56.432762"
   },
   {
     "claim": "length - 1, 500, false)\" data-area=\"nav-bar\" data-app-hidden x-lazyload> Menü Startseite Ausland Nigeria Nigeria bestätigt ersten Ebolafall $swiper",
@@ -1258,7 +1323,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:14.899754"
+    "checked_at": "2026-10-21T03:41:58.332973"
   },
   {
     "claim": "Andere Nutzungen verletzen das Urheberrecht Patientin aus Uganda eingereist Nigeria bestätigt ersten Ebolafall Eine mit Ebola infizierte Frau ist mit dem Flugzeug aus Uganda nach Nigeria eingereist",
@@ -1271,7 +1336,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:15.159216"
+    "checked_at": "2026-10-21T03:41:58.413437"
   },
   {
     "claim": "Dort ist ihre Infektion bestätigt worden",
@@ -1284,7 +1349,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:15.363568"
+    "checked_at": "2026-10-21T03:41:58.496527"
   },
   {
     "claim": "Dabei sollen laut Støre »die Vorschläge, die europäische und amerikanische Kollegen erarbeitet haben«, vorgelegt werden",
@@ -1297,7 +1362,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:16.560886"
+    "checked_at": "2026-10-21T03:41:59.215400"
   },
   {
     "claim": "Zugeschaltet waren bei dem Treffen neben US-Unterhändler Jared Kushner nach Angaben norwegischer Medien auch Vertreter mehrerer europäischer Länder, darunter Deutschland sowie der EU und der Nato",
@@ -1310,241 +1375,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:16.764539"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen fü",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:18.918777"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/ausland/krieg-in-der-ukraine-jetzt-verzoegert-trump-auch-noch-waffenlieferungen-warum-das-fatale-folgen-fuer-kyjiw-haben-koennte-a-dfedbb8a-9b6f-437f-9ea4-b6f7201d680c#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Krieg in der Ukraine: Jetzt verzögert Trump auch noch Waffenlieferungen – warum das fatale Folgen fü",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:19.144108"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-serhou-guirassy-schiesst-bvb-in-aserbaidschan-aus-der-ergebniskrise-a-82b22b70-dc1d-4453-9681-d93f6105212d#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Champions League: Serhou Guirassy schießt Borussia Dortmund in Aserbaidschan aus der Ergebniskrise -",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:20.462533"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/sport/fussball/champions-league-serhou-guirassy-schiesst-bvb-in-aserbaidschan-aus-der-ergebniskrise-a-82b22b70-dc1d-4453-9681-d93f6105212d#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Champions League: Serhou Guirassy schießt Borussia Dortmund in Aserbaidschan aus der Ergebniskrise -",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:20.686320"
-  },
-  {
-    "claim": "Andere Nutzungen verletzen das Urheberrecht Zeitmessung wird neu geregelt Das Ende der Schaltsekunde Künftig müssen wir unsere Uhren alle paar Tausend Jahre um eine Stunde verstellen",
-    "source_url": "https://www.spiegel.de/geschichte/zeitmessung-wird-neu-geregelt-das-ende-der-schaltsekunde-a-e01a1e39-5220-4b25-9056-8f8fddde2b13#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:21.876645"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/geschichte/zeitmessung-wird-neu-geregelt-das-ende-der-schaltsekunde-a-e01a1e39-5220-4b25-9056-8f8fddde2b13#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:22.112606"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/geschichte/zeitmessung-wird-neu-geregelt-das-ende-der-schaltsekunde-a-e01a1e39-5220-4b25-9056-8f8fddde2b13#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Zeitmessung wird neu geregelt: Das Ende der Schaltsekunde - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:22.316913"
-  },
-  {
-    "claim": "In dem Video versucht er immer wieder, seinen Hund zurückzurufen – vergeblich",
-    "source_url": "https://www.spiegel.de/panorama/usa-yorkshire-terrier-jagt-baer-auf-baum-und-verjagt-ihn-vom-grundstueck-a-49cfb5b0-586c-481d-949c-2801b7456e6c#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "USA: Yorkshire Terrier jagt Bär auf Baum – und verjagt ihn vom Grundstück - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:23.432369"
-  },
-  {
-    "claim": "Nach Angaben eines Diplomaten war ‌es demnach in der Vergangenheit von den paramilitärischen ​Rapid Support ‌Forces (RSF) zur Versorgung ihrer Truppen genutzt worden",
-    "source_url": "https://www.spiegel.de/ausland/sudan-ueber-150-tote-nach-drohnenangriff-in-grenzregion-abyei-a-6ab2b460-887e-4f6c-97c1-728d8f0fb00d#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:24.596086"
-  },
-  {
-    "claim": "Am Wochenende wurden laut der Uno zudem die Bundesstaaten West-Darfur, Süd-Darfur und Nord-Kordofan mit Drohnen attackiert",
-    "source_url": "https://www.spiegel.de/ausland/sudan-ueber-150-tote-nach-drohnenangriff-in-grenzregion-abyei-a-6ab2b460-887e-4f6c-97c1-728d8f0fb00d#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Sudan: Über 150 Tote nach Drohnenangriff in Grenzregion Abyei - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:24.856617"
-  },
-  {
-    "claim": "An weiteren 70 Milliarden Euro für die Ukraine will er sich nicht beteiligen",
-    "source_url": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:26.048050"
-  },
-  {
-    "claim": "Beim jüngsten EU-Gipfel erbat der ukrainische Präsident Wolodymyr Selenskyj von der EU weitere 70 Milliarden Euro für das kommende Jahr, um im Abwehrkampf gegen Russlands Angriffskrieg bestehen zu können",
-    "source_url": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:26.252973"
-  },
-  {
-    "claim": "Bulgarien kann auf keiner Weise an diesen 70 Milliarden (Euro) beteiligt sein«, sagte Radew vor Journalisten in der Kleinstadt Twardiza, wie die bulgarische Nachrichtenagentur BTA berichtete&nbsp;",
-    "source_url": "https://www.spiegel.de/ausland/bulgarien-lehnt-beteiligung-an-neuer-eu-finanzhilfe-fuer-ukraine-ab-a-c691ff7a-35a8-4bfe-a930-3e9f40ffc6f6#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Bulgarien lehnt Beteiligung an neuer EU-Finanzhilfe für Ukraine ab - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:26.506388"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:27.746889"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/wirtschaft/unternehmen/investitionen-was-vinci-chef-pierre-anjolras-am-standort-deutschland-schaetzt-a-883801b8-7453-4b01-9f8b-2842d86d844c#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Investitionen: Was Vinci-Chef Pierre Anjolras am Standort Deutschland schätzt - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:28.004992"
-  },
-  {
-    "claim": "Weiter heißt es: »Wir sind zutiefst erschüttert und können noch immer kaum in Worte fassen, was passiert ist",
-    "source_url": "https://www.spiegel.de/netzwelt/web/adam-wolke-aka-skylinetv-der-deutsche-livestreamer-ist-tot-a-252b47fa-40ef-4565-ba8e-e77a2f45fdfa#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:29.218558"
-  },
-  {
-    "claim": "«Auf Anfrage des SPIEGEL hat auch das Management von Adam Wolke »mit großer Trauer« dessen Tod bestätigt",
-    "source_url": "https://www.spiegel.de/netzwelt/web/adam-wolke-aka-skylinetv-der-deutsche-livestreamer-ist-tot-a-252b47fa-40ef-4565-ba8e-e77a2f45fdfa#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:29.425062"
-  },
-  {
-    "claim": "Zu Wolkes Alter machte das Management keine Angabe",
-    "source_url": "https://www.spiegel.de/netzwelt/web/adam-wolke-aka-skylinetv-der-deutsche-livestreamer-ist-tot-a-252b47fa-40ef-4565-ba8e-e77a2f45fdfa#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Adam Wolke aka SkylineTV: Der deutsche Livestreamer ist tot - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:29.653977"
+    "checked_at": "2026-10-21T03:41:59.295371"
   },
   {
     "claim": "Putin launched a full-scale invasion of Ukraine in 2022, and Moscow currently controls about 20% of Ukrainian territory",
@@ -1557,20 +1388,46 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:32.002647"
+    "checked_at": "2026-10-21T03:42:00.226091"
   },
   {
-    "claim": "In 2020, a high-profile North Korean defector claimed he was &quot;99% certain&quot; Kim had died following cardiovascular surgery",
-    "source_url": "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&amp;at_campaign=rss",
+    "claim": "Shares of SpaceX rose 8% in after hours trading",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
     "source_domain": "www.bbc.co.uk",
-    "article_title": "Kim Jong Un: Why do rumours about his death keep coming back? - BBC News",
+    "article_title": "Elon Musk says Tesla-SpaceX merger being considered - BBC News",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:32.443862"
+    "checked_at": "2026-10-21T03:42:00.510625"
+  },
+  {
+    "claim": "Shares of Tesla, which reports its own quarterly results on Wednesday, rose 2% after being down slightly for weeks",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Elon Musk says Tesla-SpaceX merger being considered - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:42:00.595790"
+  },
+  {
+    "claim": "At least 50% of Tesla&#x27;s shareholders would need to approve the merger, which Musk described as &quot;quite a high hurdle to achieve&quot;",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Elon Musk says Tesla-SpaceX merger being considered - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-10-21T03:42:00.674806"
   },
   {
     "claim": "It jumped by 59%, from 112 reported incidents in the first half of 2025 to 178 recorded over the same period in 2026",
@@ -1583,6 +1440,6 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-10-20T21:22:32.772487"
+    "checked_at": "2026-10-21T03:42:00.903870"
   }
 ]
