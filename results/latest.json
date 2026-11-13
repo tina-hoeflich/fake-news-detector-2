@@ -10,7 +10,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:16:59.814691"
+    "checked_at": "2026-11-13T05:30:53.807260"
   },
   {
     "claim": "Wie eine Anfrage von CORRECTIV bei den Innenministerien der Länder ergab, wuchs die Zahl der dort offiziell registrierten Straftaten innerhalb von zwei Jahren um rund 80 Prozent",
@@ -23,7 +23,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:00.902287"
+    "checked_at": "2026-11-13T05:30:53.867998"
   },
   {
     "claim": "Keine einheitliche Erfassung in den Bundesländern Die Recherche macht aber vor allem deutlich: Wie schwer bis unmöglich es ist, unter den derzeitigen Bedingungen die tatsächliche Zahl der Taten zu erfassen",
@@ -36,7 +36,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:00.982924"
+    "checked_at": "2026-11-13T05:30:53.916538"
   },
   {
     "claim": "Laut Konzernkreisen beklagen einige im Vorstand intern, dass sie nicht ausreichend über die Planungen informiert gewesen sein",
@@ -49,7 +49,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:01.804731"
+    "checked_at": "2026-11-13T05:30:55.080979"
   },
   {
     "claim": "(Foto: picture alliance/dpa | Philipp Schulze) Die Bundeswehr will ab sofort keine chinesische Drohnen mehr einsetzen",
@@ -62,10 +62,10 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:02.646908"
+    "checked_at": "2026-11-13T05:30:56.098518"
   },
   {
-    "claim": "Petition unterstützen CORRECTIV legte öffentlich bislang unbekannte Sicherheitslücken und Umgehungsmaßnahmen offen Seither haben hochrangige Militärs intern immer wieder vor Sicherheitsrisiken gewarnt",
+    "claim": "CORRECTIV legte öffentlich bislang unbekannte Sicherheitslücken und Umgehungsmaßnahmen offen Seither haben hochrangige Militärs intern immer wieder vor Sicherheitsrisiken gewarnt",
     "source_url": "https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2026/11/11/spionagerisiko-bundeswehr-verbannt-chinesische-drohnen/",
     "source_domain": "correctiv.org",
     "article_title": "Spionagerisiko: Bundeswehr verbannt chinesische Drohnen - correctiv.org",
@@ -75,7 +75,20 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:02.739773"
+    "checked_at": "2026-11-13T05:30:56.151768"
+  },
+  {
+    "claim": "Laut einem internen Offiziersbericht sollen diese Daten bei einem Reklamationsfall durch den chinesischen Hersteller DJI ausgelesen worden sein",
+    "source_url": "https://correctiv.org/aktuelles/sicherheit-und-verteidigung/2026/11/11/spionagerisiko-bundeswehr-verbannt-chinesische-drohnen/",
+    "source_domain": "correctiv.org",
+    "article_title": "Spionagerisiko: Bundeswehr verbannt chinesische Drohnen - correctiv.org",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "factcheck",
+    "checked_at": "2026-11-13T05:30:56.200276"
   },
   {
     "claim": "[DEBUNKED] Martinsumzug: angeblicher Kita-Aushang stammt aus KI-Video",
@@ -88,7 +101,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:03.456190"
+    "checked_at": "2026-11-13T05:30:57.137976"
   },
   {
     "claim": "[DEBUNKED] „Dein Kampf ist an der Informationsfront“: Wie ein US-Amerikaner Fakes für Russland verbreitet - correctiv.org",
@@ -101,7 +114,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:04.168232"
+    "checked_at": "2026-11-13T05:30:58.116752"
   },
   {
     "claim": "[DEBUNKED] So haben wir den Pfannkuchen-Index erfunden - correctiv.org",
@@ -114,7 +127,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:05.509269"
+    "checked_at": "2026-11-13T05:31:00.188687"
   },
   {
     "claim": "Dies ist keine isolierte Krise, sondern eine koordinierte globale Verschiebung – eine Warnung, bevor Demokratien zu einer fernen Erinnerung verblassen",
@@ -127,7 +140,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:06.472487"
+    "checked_at": "2026-11-13T05:31:01.213874"
   },
   {
     "claim": "Nicht einen ganzen Hafen, sondern ein Ammoniak-Terminal am Rotterdamer Hafen für 290 Millionen Euro, wo Düngemittel-Rohstoffe über den Seeweg angeliefert werden",
@@ -140,7 +153,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:06.594944"
+    "checked_at": "2026-11-13T05:31:01.263526"
   },
   {
     "claim": "Fünf Milliarden tschechische Kronen vor Steuern, 4,25 Milliarden nach Steuern: etwa 170 Millionen Euro oder – gemessen am Gehalt eines Ministerpräsidenten – zwölf Jahrhunderte Arbeit",
@@ -153,7 +166,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:06.672942"
+    "checked_at": "2026-11-13T05:31:01.314016"
   },
   {
     "claim": "Die Türkei verkündete schon im Juni das Elektrifizierungs-Ziel „35 bis 35“: Der Anteil von Strom am globalen Energiemarkt soll bis 2035 auf 35 Prozent erhöht werden",
@@ -166,7 +179,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:08.864276"
+    "checked_at": "2026-11-13T05:31:04.398190"
   },
   {
     "claim": "[DEBUNKED] KI-Chatbots: Emotionsforscherin warnt vor emotionaler Abhängigkeit",
@@ -179,7 +192,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:09.577959"
+    "checked_at": "2026-11-13T05:31:05.336483"
   },
   {
     "claim": "[DEBUNKED] Hackerangriffe auf Kühlsysteme: Auch Pharmahändler in Deutschland betroffen",
@@ -192,7 +205,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:10.205294"
+    "checked_at": "2026-11-13T05:31:06.273461"
   },
   {
     "claim": "[DEBUNKED] CORRECTIVs Pfannkuchen-Index: Das Rezept - correctiv.org",
@@ -205,7 +218,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:10.802980"
+    "checked_at": "2026-11-13T05:31:07.229571"
   },
   {
     "claim": "„Wut gewinnt immer“ ist keine verlässliche Regel",
@@ -218,7 +231,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:12.295634"
+    "checked_at": "2026-11-13T05:31:09.174712"
   },
   {
     "claim": "Gemessen wurden Teilungen und der Ton der Texte, keine Zustimmung oder Gefühle des Publikums",
@@ -231,7 +244,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:12.366179"
+    "checked_at": "2026-11-13T05:31:09.224552"
   },
   {
     "claim": "Von einem jährlichen Rückzug der Empörung kann deshalb keine Rede sein",
@@ -244,7 +257,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:12.540449"
+    "checked_at": "2026-11-13T05:31:09.272774"
   },
   {
     "claim": "[DEBUNKED] Martinsumzug und „Linksextreme“: Satire erklärt",
@@ -257,7 +270,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:12.882853"
+    "checked_at": "2026-11-13T05:31:09.986270"
   },
   {
     "claim": "[DEBUNKED] Impfstoff-Grafik: Was ist wirklich in der Spritze?",
@@ -270,7 +283,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:13.738331"
+    "checked_at": "2026-11-13T05:31:10.557836"
   },
   {
     "claim": "[DEBUNKED] Facebook-Abo: Keine neue Zahlungspflicht",
@@ -283,7 +296,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:14.202334"
+    "checked_at": "2026-11-13T05:31:10.806425"
   },
   {
     "claim": "[DEBUNKED] Dougan-Leak: Wie Propaganda in KI-Antworten gelangen soll",
@@ -296,7 +309,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:14.440181"
+    "checked_at": "2026-11-13T05:31:11.919906"
   },
   {
     "claim": "[DEBUNKED] Arche Noah gefunden? Was die Holzfragmente belegen",
@@ -309,7 +322,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:14.911250"
+    "checked_at": "2026-11-13T05:31:12.186808"
   },
   {
     "claim": "[DEBUNKED] Falscher Schauspieler: Betrug mit angeblichem Treffen",
@@ -322,7 +335,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:15.196443"
+    "checked_at": "2026-11-13T05:31:12.928420"
   },
   {
     "claim": "[DEBUNKED] Weltuntergang am 13. November 2026? Woher das kommt",
@@ -335,7 +348,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:15.484969"
+    "checked_at": "2026-11-13T05:31:14.076211"
   },
   {
     "claim": "[DEBUNKED] „Denkt endlich selber!“: Was kritisches Denken ausmacht",
@@ -348,7 +361,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:16.071364"
+    "checked_at": "2026-11-13T05:31:14.819781"
   },
   {
     "claim": "[DEBUNKED] Trump und „Judas Disloyal Vance“: Gefälschter Post",
@@ -361,7 +374,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:16.303296"
+    "checked_at": "2026-11-13T05:31:15.088558"
   },
   {
     "claim": "[DEBUNKED] Brennholz-Fakeshops: Warnung aus der Schweiz",
@@ -374,7 +387,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:16.793496"
+    "checked_at": "2026-11-13T05:31:15.830817"
   },
   {
     "claim": "Die OBS warnt auf ihrer offiziellen Website vor SMS mit genau diesem Vorwand",
@@ -387,7 +400,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:17.327775"
+    "checked_at": "2026-11-13T05:31:16.641466"
   },
   {
     "claim": "Was jetzt wichtig ist:Öffne den Link nicht und gib dort keine Daten ein",
@@ -400,7 +413,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:17.407503"
+    "checked_at": "2026-11-13T05:31:16.693098"
   },
   {
     "claim": "[DEBUNKED] Falscher Gaming-Support: Betrug um 111.000 Euro",
@@ -413,7 +426,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:17.886959"
+    "checked_at": "2026-11-13T05:31:17.455705"
   },
   {
     "claim": "Laut Polizei können auch andere Jugendliche übergriffig werden",
@@ -426,7 +439,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:18.420538"
+    "checked_at": "2026-11-13T05:31:18.226340"
   },
   {
     "claim": "„Turbo-Krebs“ ist keine anerkannte medizinische Diagnose",
@@ -439,7 +452,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:18.740380"
+    "checked_at": "2026-11-13T05:31:19.028548"
   },
   {
     "claim": "Das damalige Zitat betrifft COVID-19 und belegt keine Krebsursache",
@@ -452,7 +465,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:18.928217"
+    "checked_at": "2026-11-13T05:31:19.074814"
   },
   {
     "claim": "Laut der von seinem Büro bekannt gegebenen Diagnose hatte der Prostatakrebs bereits in die Knochen gestreut",
@@ -465,7 +478,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:19.002906"
+    "checked_at": "2026-11-13T05:31:19.122620"
   },
   {
     "claim": "[DEBUNKED] Sankt Martin findet statt: Alte rechte Lügen in neuen KI-Schläuchen - Volksverpetzer",
@@ -478,7 +491,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:19.629947"
+    "checked_at": "2026-11-13T05:31:19.947832"
   },
   {
     "claim": "[DEBUNKED] Diese Kassenzettel sind KI-Fakes – es ist aber komplizierter, als du denkst! - Volksverpetzer",
@@ -491,7 +504,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:20.283576"
+    "checked_at": "2026-11-13T05:31:20.801952"
   },
   {
     "claim": "[DEBUNKED] Weidel &amp; Wagenknecht lügen: Dieser Junge griff die ukrainischen Soldaten an, nicht umgekehrt - Volksverpetzer",
@@ -504,7 +517,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:20.933704"
+    "checked_at": "2026-11-13T05:31:21.686842"
   },
   {
     "claim": "Wer laut ist, ist noch lange nicht die Mehrheit Manchmal fühlt es sich an, als würde in diesem Land nur noch gebrüllt",
@@ -517,7 +530,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:21.674593"
+    "checked_at": "2026-11-13T05:31:22.658798"
   },
   {
     "claim": "Die Lautesten füllen die Talkshows, die Kommentarspalten und deine Timeline, und sie behaupten, für alle zu sprechen",
@@ -530,7 +543,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:21.749145"
+    "checked_at": "2026-11-13T05:31:22.713188"
   },
   {
     "claim": "Es gab immer wieder Momente, in denen die Vielen aufstanden, als es darauf ankam",
@@ -543,7 +556,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:21.829167"
+    "checked_at": "2026-11-13T05:31:22.763910"
   },
   {
     "claim": "Während wir uns medial mit rechten Feindbildern ablenken lassen, bleibt bei der immer größeren rechtsextremen Gewalt der Aufschrei aus",
@@ -556,7 +569,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:22.541055"
+    "checked_at": "2026-11-13T05:31:23.677655"
   },
   {
     "claim": "Nach Angaben der antifaschistischen Recherchegruppe Exif wird er noch vor der eigenen Haustür von einer Gruppe Antifaschist:innen aufgehalten",
@@ -569,7 +582,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:22.680854"
+    "checked_at": "2026-11-13T05:31:23.732987"
   },
   {
     "claim": "Die Polizei bestätigt später, dass er mit dem Benzinkanister vor dem Haus angetroffen wurde",
@@ -582,7 +595,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:22.760738"
+    "checked_at": "2026-11-13T05:31:23.780285"
   },
   {
     "claim": "Es brauche Brücken, keine Brandmauern",
@@ -595,7 +608,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:24.121008"
+    "checked_at": "2026-11-13T05:31:25.495095"
   },
   {
     "claim": "[DEBUNKED] Die Wahrheit über die Gen-Z-Proteste, die die Medien verschweigen! - Volksverpetzer",
@@ -608,7 +621,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:24.755157"
+    "checked_at": "2026-11-13T05:31:26.354817"
   },
   {
     "claim": "Das OVG Sachsen-Anhalt führte in seiner Begründung aus, dass es bei den beiden Antragstellern keine Gründe gab, die zu einer Abweichung von der Regelvermutung der Unzuverlässigkeit geführt hätten",
@@ -621,7 +634,20 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:25.457891"
+    "checked_at": "2026-11-13T05:31:27.232647"
+  },
+  {
+    "claim": "[DEBUNKED] Did Bill Clinton help homeless veteran outside Kennedy Center? | Snopes.com",
+    "source_url": "https://www.snopes.com/fact-check/bill-clinton-homeless-veteran/",
+    "source_domain": "www.snopes.com",
+    "article_title": "Did Bill Clinton help homeless veteran outside Kennedy Center? | Snopes.com",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "www.snopes.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-11-13T05:31:27.330782"
   },
   {
     "claim": "[DEBUNKED] Does video show real AI job interview for Burger King? | Snopes.com",
@@ -634,7 +660,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:25.553947"
+    "checked_at": "2026-11-13T05:31:27.647827"
   },
   {
     "claim": "[DEBUNKED] Did Winston Churchill say Americans always 'do the right thing' after all other options are exhausted? | Snopes.com",
@@ -647,7 +673,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:25.676526"
+    "checked_at": "2026-11-13T05:31:27.760377"
   },
   {
     "claim": "[DEBUNKED] Did Trump call JD Vance 'Judas' in a post? | Snopes.com",
@@ -660,7 +686,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:26.194410"
+    "checked_at": "2026-11-13T05:31:28.179919"
   },
   {
     "claim": "[DEBUNKED] Is this a real image of Trump, Russell Brand, Conor McGregor and other public figures? | Snopes.com",
@@ -673,7 +699,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:26.324752"
+    "checked_at": "2026-11-13T05:31:28.280043"
   },
   {
     "claim": "[DEBUNKED] Is this image of flooded tents in Gaza real? | Snopes.com",
@@ -686,20 +712,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:26.851046"
-  },
-  {
-    "claim": "[DEBUNKED] Unpacking edited video behind Hasan Piker's $72.5M defamation lawsuit against Scott Jennings | Snopes.com",
-    "source_url": "https://www.snopes.com/news/2026/10/28/hasan-piker-scott-jennings-lawsuit/",
-    "source_domain": "www.snopes.com",
-    "article_title": "Unpacking edited video behind Hasan Piker's $72.5M defamation lawsuit against Scott Jennings | Snope",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "www.snopes.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:27.263568"
+    "checked_at": "2026-11-13T05:31:28.717962"
   },
   {
     "claim": "[DEBUNKED] Wes Streeting did not wear skirt to remembrance ceremony – Full Fact",
@@ -712,7 +725,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:27.971299"
+    "checked_at": "2026-11-13T05:31:29.478379"
   },
   {
     "claim": "[DEBUNKED] Facebook ad offers fake Tesco grocery package giveaway – Full Fact",
@@ -725,7 +738,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:28.840300"
+    "checked_at": "2026-11-13T05:31:30.600724"
   },
   {
     "claim": "[DEBUNKED] No, Andy Burnham has not just announced the UK is rejoining the EU – Full Fact",
@@ -738,7 +751,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:29.393690"
+    "checked_at": "2026-11-13T05:31:31.248128"
   },
   {
     "claim": "[DEBUNKED] Videos of tradesmen supporting van driver told to remove England flag are AI-generated – Full Fact",
@@ -751,7 +764,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:29.946216"
+    "checked_at": "2026-11-13T05:31:31.875294"
   },
   {
     "claim": "One consumer survey suggests in the UK about 2% of those aged 16 to 75 own or have access to smart glasses, amounting to around a million people",
@@ -764,7 +777,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:30.381156"
+    "checked_at": "2026-11-13T05:31:32.386037"
   },
   {
     "claim": "[DEBUNKED] Viral video does not show new strain of Covid found in Northampton – Full Fact",
@@ -777,7 +790,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:30.824870"
+    "checked_at": "2026-11-13T05:31:33.039077"
   },
   {
     "claim": "[DEBUNKED] Fake images of Donald Trump being carried after US midterm elections shared online – Full Fact",
@@ -790,7 +803,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:31.366210"
+    "checked_at": "2026-11-13T05:31:33.620489"
   },
   {
     "claim": "[DEBUNKED] Government not removing need to show ID to vote in some elections – Full Fact",
@@ -803,7 +816,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:32.292959"
+    "checked_at": "2026-11-13T05:31:34.758734"
   },
   {
     "claim": "It found that compared with a Moderna dose, adult Pfizer recipients had a 40% higher risk of dying from any cause within one year of a first dose",
@@ -816,7 +829,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:33.019772"
+    "checked_at": "2026-11-13T05:31:35.528428"
   },
   {
     "claim": "[DEBUNKED] FactChecking Trump&#039;s Post-Election &#8216;60 Minutes&#8217; Interview - FactCheck.org",
@@ -829,7 +842,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:33.523425"
+    "checked_at": "2026-11-13T05:31:36.331442"
   },
   {
     "claim": "[DEBUNKED] Explaining the U.S. Defense Agreement with Greenland and Denmark - FactCheck.org",
@@ -842,7 +855,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:34.052154"
+    "checked_at": "2026-11-13T05:31:37.111004"
   },
   {
     "claim": "[DEBUNKED] Wright’s Misleading Claims About Electricity Prices in Red vs. Blue States - FactCheck.org",
@@ -855,7 +868,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:34.539149"
+    "checked_at": "2026-11-13T05:31:37.855757"
   },
   {
     "claim": "[DEBUNKED] Common Themes in the 2026 Midterms - FactCheck.org",
@@ -868,7 +881,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:35.606358"
+    "checked_at": "2026-11-13T05:31:39.188974"
   },
   {
     "claim": "[DEBUNKED] In Kansas, Both Sides Twist the Facts in Accusations of Protecting Pedophiles - FactCheck.org",
@@ -881,7 +894,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:36.136020"
+    "checked_at": "2026-11-13T05:31:39.834123"
   },
   {
     "claim": "[DEBUNKED] NH Ad Distorts the Facts in Claiming Pappas Grew Rich in Office - FactCheck.org",
@@ -894,20 +907,46 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:37.618404"
+    "checked_at": "2026-11-13T05:31:41.692783"
   },
   {
-    "claim": "[DEBUNKED] Fact Check: Video Of AOC Is NOT Real Footage Of Her With Bare Feet On Desk -- It Is AI Faceswap | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-video-of-aoc-is-not-real-footage-of-her-with-bare-feet-on-desk.html",
+    "claim": "[DEBUNKED] Fact Check: FAKE Video Shows Snakes Raining From Sky -- It Is AI-Generated  | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-video-shows-snakes-raining-from-sky-it-is-ai-generated.html",
     "source_domain": "leadstories.com",
-    "article_title": "Fact Check: Video Of AOC Is NOT Real Footage Of Her With Bare Feet On Desk -- It Is AI Faceswap | Le",
+    "article_title": "Fact Check: FAKE Video Shows Snakes Raining From Sky -- It Is AI-Generated  | Lead Stories",
     "risk_score": 0.9,
     "risk_category": "HIGH",
     "has_factcheck": true,
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:37.789492"
+    "checked_at": "2026-11-13T05:31:41.870390"
+  },
+  {
+    "claim": "[DEBUNKED] Fact Check: FAKE Photo Shows Trump, Netanyahu, Macron, Other World Leaders with Tape on Their Phones -- AI-Generated | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fake-photo-shows-trump-netanyahu-macron-other-world-leaders-with-tape-on-their-phones-ai-generatedi.html",
+    "source_domain": "leadstories.com",
+    "article_title": "Fact Check: FAKE Photo Shows Trump, Netanyahu, Macron, Other World Leaders with Tape on Their Phones",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "leadstories.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-11-13T05:31:42.034062"
+  },
+  {
+    "claim": "[DEBUNKED] Fact Check: Video of AOC Is AI FACESWAP, Not Real Footage of Her with Bare Feet on Desk  | Lead Stories",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-video-of-aoc-is-not-real-footage-of-her-with-bare-feet-on-desk.html",
+    "source_domain": "leadstories.com",
+    "article_title": "Fact Check: Video of AOC Is AI FACESWAP, Not Real Footage of Her with Bare Feet on Desk  | Lead Stor",
+    "risk_score": 0.9,
+    "risk_category": "HIGH",
+    "has_factcheck": true,
+    "factcheck_rating": "FALSE - Debunked by fact-checkers",
+    "factcheck_source": "leadstories.com",
+    "source_type": "factcheck",
+    "checked_at": "2026-11-13T05:31:42.250431"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Nvidia CEO Jensen Huang Did NOT Say 'Intelligent People Never Waste Their Time Focusing On Women' | Lead Stories",
@@ -920,7 +959,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:37.952007"
+    "checked_at": "2026-11-13T05:31:42.432192"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Video Of Saluting Scarred Veteran At Veterans Day Parade Is AI-Generated | Lead Stories",
@@ -933,7 +972,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.104059"
+    "checked_at": "2026-11-13T05:31:42.604153"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Voter Registration Does NOT Exceed Adult Citizens In Several States -- Census Estimates Are Not Exact | Lead Stories",
@@ -946,7 +985,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.266729"
+    "checked_at": "2026-11-13T05:31:42.785562"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Gina Hinojosa Did NOT Apologize To Elon Musk In 'Open Letter' -- Image Is AI-Generated | Lead Stories",
@@ -959,7 +998,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.449994"
+    "checked_at": "2026-11-13T05:31:42.952409"
   },
   {
     "claim": "[DEBUNKED] Fact Check: NO Evidence Hugo Carvajal Released 'Venezuela List' Of U.S. Senators Who Took Bribes | Lead Stories",
@@ -972,7 +1011,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.636945"
+    "checked_at": "2026-11-13T05:31:43.136791"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Musk Did NOT Call Texas Gov.-Elect Gina Hinojosa 'A Puppet Of Barack Obama And Kamala Harris' | Lead Stories",
@@ -985,7 +1024,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.806263"
+    "checked_at": "2026-11-13T05:31:43.324134"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Maine Secretary of State NOT Caught With Box of 250 Ballots In Office -- Discovered In Amazon Package in 2025 | Lead Stories",
@@ -998,7 +1037,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:38.978068"
+    "checked_at": "2026-11-13T05:31:43.499208"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Trump Did NOT Make Post Calling JD Vance 'Judas Disloyal Vance' on Truth Social After 2026 Midterm Elections | Lead Stories",
@@ -1011,7 +1050,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.131715"
+    "checked_at": "2026-11-13T05:31:43.689512"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Dave Chappelle Did NOT Snub James Talarico During SNL Closing Credits | Lead Stories",
@@ -1024,7 +1063,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.301900"
+    "checked_at": "2026-11-13T05:31:43.875307"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Images And Video Show U.K. Defense Secretary Wes Streeting In Skirt -- Outfit Was Digitally Altered | Lead Stories",
@@ -1037,7 +1076,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.472944"
+    "checked_at": "2026-11-13T05:31:44.070308"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Post Attributed To JD Vance Says He Is Looking To Avoid Swearing Abdul El-Sayed Into Office | Lead Stories",
@@ -1050,7 +1089,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.647484"
+    "checked_at": "2026-11-13T05:31:44.237446"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Image Of Aramco Tower In Riyadh After Houthi Attack Is AI-Generated | Lead Stories",
@@ -1063,33 +1102,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.816655"
-  },
-  {
-    "claim": "[DEBUNKED] Fact Check: FBI, DHS Did NOT Seize Voting Machines In Texas And Arizona On Or Before Nov. 7, 2026 | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fbi-dhs-did-not-seize-voting-machines-texas-and-arizona-on-or-before-november-7-2026.html",
-    "source_domain": "leadstories.com",
-    "article_title": "Fact Check: FBI, DHS Did NOT Seize Voting Machines In Texas And Arizona On Or Before Nov. 7, 2026 | ",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "leadstories.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:39.989541"
-  },
-  {
-    "claim": "[DEBUNKED] Fact Check: 20 Million New Blue Votes Are NOT Confirmed -- But 2026 Midterm Results Are Due To Real Voter Choices | Lead Stories",
-    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-20-million-new-blue-votes-are-not-confirmed-2026-midterm-results-due-to-real-voter-choices.html",
-    "source_domain": "leadstories.com",
-    "article_title": "Fact Check: 20 Million New Blue Votes Are NOT Confirmed -- But 2026 Midterm Results Are Due To Real ",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "leadstories.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:40.142497"
+    "checked_at": "2026-11-13T05:31:44.430983"
   },
   {
     "claim": "According to the Pew Research Center, 38% of adults ages 18 to 29 regularly get news from news influencers — people with large social media followings who often post about news, politics or social issues",
@@ -1102,7 +1115,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:41.063315"
+    "checked_at": "2026-11-13T05:31:45.592491"
   },
   {
     "claim": "That’s more than four times the share of adults 65 and older (8%)",
@@ -1115,7 +1128,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:41.134049"
+    "checked_at": "2026-11-13T05:31:45.643374"
   },
   {
     "claim": "&#8221; Social media accounts for roughly 75% of her news diet",
@@ -1128,7 +1141,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:41.229885"
+    "checked_at": "2026-11-13T05:31:45.693246"
   },
   {
     "claim": "[DEBUNKED] Political campaigns spent $187 million promoting AI-generated ads in the 2026 midterms. Did they work? - Poynter",
@@ -1141,7 +1154,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.poynter.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:41.527068"
+    "checked_at": "2026-11-13T05:31:46.087837"
   },
   {
     "claim": "[DEBUNKED] Surprise, surprise: President Trump suggests the midterms were rigged - Poynter",
@@ -1154,7 +1167,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.poynter.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:41.660233"
+    "checked_at": "2026-11-13T05:31:46.312194"
   },
   {
     "claim": "[DEBUNKED] Russia introduces new laws to jail critics, but denies it holds any political prisoners - EUvsDisinfo",
@@ -1167,7 +1180,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:42.355018"
+    "checked_at": "2026-11-13T05:31:47.553098"
   },
   {
     "claim": "[DEBUNKED] How to justify crimes against humanity: the Kremlin method - EUvsDisinfo",
@@ -1180,7 +1193,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:42.874437"
+    "checked_at": "2026-11-13T05:31:48.226046"
   },
   {
     "claim": "[DEBUNKED] Russia’s Baltic escalation playbook: fear is part of the strategy - EUvsDisinfo",
@@ -1193,7 +1206,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:44.198247"
+    "checked_at": "2026-11-13T05:31:49.062925"
   },
   {
     "claim": "[DEBUNKED] Moscow cries fraud abroad while fixing the vote at home - EUvsDisinfo",
@@ -1206,7 +1219,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:44.942451"
+    "checked_at": "2026-11-13T05:31:50.148388"
   },
   {
     "claim": "[DEBUNKED] From denial to exploitation: how the Kremlin has adapted its climate disinformation - EUvsDisinfo",
@@ -1219,7 +1232,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:45.486716"
+    "checked_at": "2026-11-13T05:31:51.162243"
   },
   {
     "claim": "[DEBUNKED] From social media to the front line: Russia’s foreign recruitment pipeline - EUvsDisinfo",
@@ -1232,33 +1245,124 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-12T23:17:46.285768"
+    "checked_at": "2026-11-13T05:31:51.415436"
   },
   {
-    "claim": "Hinweis: Um alle Funktionen unserer Seiten nutzen zu können, wird JavaScript empfohlen",
-    "source_url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-    "source_domain": "www.tagesschau.de",
-    "article_title": "Cyberangriff bei bayerischem Drohnenhersteller Quantum Systems | BR24",
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/kultur/kino/robert-pattinson-will-jetzt-offenbar-james-bond-spielen-kann-er-007-a-27f4e629-b43c-402b-ab35-9885002aee3f#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Robert Pattinson will jetzt offenbar James Bond spielen. Kann er 007? - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:17:57.777101"
+    "checked_at": "2026-11-13T05:32:09.794093"
   },
   {
-    "claim": "Laut einem Medienbericht hat die Bundeswehr bereits reagiert",
-    "source_url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
-    "source_domain": "www.tagesschau.de",
-    "article_title": "Cyberangriff bei bayerischem Drohnenhersteller Quantum Systems | BR24",
+    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/kultur/kino/robert-pattinson-will-jetzt-offenbar-james-bond-spielen-kann-er-007-a-27f4e629-b43c-402b-ab35-9885002aee3f#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Robert Pattinson will jetzt offenbar James Bond spielen. Kann er 007? - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:09.853880"
+  },
+  {
+    "claim": "Bild vergrößern So arbeitet zwar kein Geheimdienst der Welt, sieht aber immer wieder schick aus (Symbolbild) Foto: Bernd Feil/M",
+    "source_url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "News: Geheimdienstreform, CDU-Frust über Friedrich Merz, Klimaproteste - DER SPIEGEL",
+    "risk_score": 0.15,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:10.868856"
+  },
+  {
+    "claim": "Wenn einmal in den Nachrichten vom BND oder vom Verfassungsschutz die Rede ist, dann geht es kaum um spektakuläre Erfolge, sondern praktisch immer um Pannen und Skandale (mehr dazu hier&nbsp;)",
+    "source_url": "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "News: Geheimdienstreform, CDU-Frust über Friedrich Merz, Klimaproteste - DER SPIEGEL",
+    "risk_score": 0.15,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:10.922574"
+  },
+  {
+    "claim": "Andere Nutzungen verletzen das Urheberrecht Harter Kurs unter Trump US-Regierung prahlt mit angeblicher Rekordzahl an Abschiebungen Die brutale Migrationspolitik der USA sorgt immer wieder für Empörung",
+    "source_url": "https://www.spiegel.de/ausland/usa-trumps-regierung-prahlt-mit-angeblicher-rekordzahl-an-abschiebungen-a-fcedd355-bad6-42e2-bd9a-1de4543fea8c#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "USA: Trumps Regierung prahlt mit angeblicher Rekordzahl an Abschiebungen - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:13.019780"
+  },
+  {
+    "claim": "Nie zuvor in ihrer Geschichte habe die zuständige Migrationsbehörde ICE in einem Jahr mehr Menschen abgeschoben",
+    "source_url": "https://www.spiegel.de/ausland/usa-trumps-regierung-prahlt-mit-angeblicher-rekordzahl-an-abschiebungen-a-fcedd355-bad6-42e2-bd9a-1de4543fea8c#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "USA: Trumps Regierung prahlt mit angeblicher Rekordzahl an Abschiebungen - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:13.073579"
+  },
+  {
+    "claim": "Nach Angaben der Störungsplattform Downdetector wurden gegen 19",
+    "source_url": "https://www.spiegel.de/netzwelt/microsoft-grossstoerung-sperrt-weltweit-zehntausende-nutzer-aus-a-bb279081-217e-4bd7-b01f-c66ec6671f7c#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Microsoft: Großstörung sperrt weltweit Zehntausende Nutzer aus - DER SPIEGEL",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:17:57.937377"
+    "checked_at": "2026-11-13T05:32:14.114607"
+  },
+  {
+    "claim": "»Wir verfolgen mit Hochdruck alle Möglichkeiten, die Auswirkungen zu verringern",
+    "source_url": "https://www.spiegel.de/netzwelt/microsoft-grossstoerung-sperrt-weltweit-zehntausende-nutzer-aus-a-bb279081-217e-4bd7-b01f-c66ec6671f7c#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Microsoft: Großstörung sperrt weltweit Zehntausende Nutzer aus - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:14.158563"
+  },
+  {
+    "claim": "Andere Nutzungen verletzen das Urheberrecht Russischer Angriffskrieg gegen Ukraine Europäer formulieren Bedingungen für Sicherheitsgespräche 39 europäische Staaten haben sich in Dublin auf gemeinsame Sicherheitsprinzipien verständigt",
+    "source_url": "https://www.spiegel.de/ausland/krieg-gegen-ukraine-europaeer-formulieren-bedingungen-fuer-sicherheitsgespraeche-a-04895725-09d3-489a-9c25-368ec95b9467#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Krieg gegen Ukraine: Europäer formulieren Bedingungen für Sicherheitsgespräche - DER SPIEGEL",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:15.403687"
   },
   {
     "claim": "Tinnitus wird immer schlimmer»Das ist eine der härtesten Entscheidungen, die ich jemals treffen musste",
@@ -1271,7 +1375,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:01.101444"
+    "checked_at": "2026-11-13T05:32:16.498784"
   },
   {
     "claim": "Die Wahrheit sei aber, dass der Tinnitus immer schlimmer werde",
@@ -1284,7 +1388,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:01.174927"
+    "checked_at": "2026-11-13T05:32:16.552697"
   },
   {
     "claim": "« Der israelische Botschafter in Paris habe gesagt, ihm wäre jeder andere als Mélenchon als Präsident lieber",
@@ -1297,7 +1401,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:04.830652"
+    "checked_at": "2026-11-13T05:32:20.539434"
   },
   {
     "claim": "»Für alle, die sich mit der Truppe und ihrem Auftrag verbunden fühlen, gibt es eine neue Möglichkeit, dies zu zeigen",
@@ -1310,7 +1414,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:05.659683"
+    "checked_at": "2026-11-13T05:32:21.577489"
   },
   {
     "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
@@ -1323,7 +1427,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:06.504594"
+    "checked_at": "2026-11-13T05:32:22.689498"
   },
   {
     "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
@@ -1336,149 +1440,97 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:06.625928"
+    "checked_at": "2026-11-13T05:32:22.742001"
   },
   {
-    "claim": "Zudem wurden nach Angaben eines dort tätigen Arztes 30 weitere Menschen verletzt",
-    "source_url": "https://www.spiegel.de/ausland/gaza-mehrere-tote-nach-israelischem-angriff-auf-nasser-krankenhaus-a-38b81b5b-b4ea-4d0b-978c-b50bf1a43084#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Gaza: Mehrere Tote nach israelischem Angriff auf Nasser-Krankenhaus - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:09.176753"
-  },
-  {
-    "claim": "Eher nicht, finden sie in der CDU Friedrich Merz hat sich festgelegt: Die Senkung der Stromsteuer für alle soll kommen",
-    "source_url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:10.023179"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:10.191783"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/politik/deutschland/friedrich-merz-kann-ihr-kanzler-gut-verhandeln-eher-nicht-finden-sie-in-der-cdu-a-30ef26a9-93f9-4714-84ad-8f353e28d4fc#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Friedrich Merz: Kann ihr Kanzler gut verhandeln? Eher nicht, finden sie in der CDU - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:10.272001"
-  },
-  {
-    "claim": "»Alle Besucher haben jederzeit für eine Atmosphäre der Stille und des Respekts zu sorgen«, rief der in Paradeuniform gekleidete Soldat, nachdem aus der Gruppe um Hegset",
-    "source_url": "https://www.spiegel.de/ausland/usa-hegseth-zeichnet-soldaten-aus-der-ihn-anbruellte-a-b0079820-bb3e-4068-921a-035f59f0f56a#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "USA: Hegseth zeichnet Soldaten aus, der ihn anbrüllte - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:12.013103"
-  },
-  {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/kultur/david-walliams-deutscher-verlag-stoppt-auslieferung-der-kinderbuecher-a-07999036-e7fe-4f23-8477-1e2b89b54510#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "David Walliams: Deutscher Verlag stoppt Auslieferung der Kinderbücher - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:12.842567"
-  },
-  {
-    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/kultur/david-walliams-deutscher-verlag-stoppt-auslieferung-der-kinderbuecher-a-07999036-e7fe-4f23-8477-1e2b89b54510#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "David Walliams: Deutscher Verlag stoppt Auslieferung der Kinderbücher - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:12.911803"
-  },
-  {
-    "claim": "Second, last year&#x27;s initial reforms would have affected people in all age groups, whilst benefit cuts this time would be limited to the under 25s, who make up around 11% of Pip claimants",
-    "source_url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&amp;at_campaign=rss",
+    "claim": "The GMC analysed figures from its national training survey, which in 2026 was completed by 68% of trainee doctors, which includes registrars, representing almost 52,000 people",
+    "source_url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&amp;at_campaign=rss",
     "source_domain": "www.bbc.co.uk",
-    "article_title": "Can Andy Burnham avoid another Labour welfare rebellion? - BBC News",
+    "article_title": "Junior doctor burnout may put maternity patients at risk, regulator warns - BBC News",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:14.396035"
+    "checked_at": "2026-11-13T05:32:24.110595"
   },
   {
-    "claim": "7% growth offered by the economists who track every minor murmur of Britain&#x27;s economy",
-    "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&amp;at_campaign=rss",
+    "claim": "This summer, Hetton Academy hit another milestone, with 80% of its pupils getting a pass of at least a grade 4 in maths and English",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&amp;at_campaign=rss",
     "source_domain": "www.bbc.co.uk",
-    "article_title": "Why the UK economy is surprisingly resilient - BBC News",
+    "article_title": "The school where white working-class pupils defy the odds - BBC News",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:15.056409"
+    "checked_at": "2026-11-13T05:32:24.313260"
   },
   {
-    "claim": "1% in the four Q3s [ie July to September] since the pandemic",
-    "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&amp;at_campaign=rss",
+    "claim": "In fact, there were only 339 non-selective schools in England that hit an average 80% pass rate in maths and English for the three years to 2025, out of around 3,000 that published the relevant data",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&amp;at_campaign=rss",
     "source_domain": "www.bbc.co.uk",
-    "article_title": "Why the UK economy is surprisingly resilient - BBC News",
+    "article_title": "The school where white working-class pupils defy the odds - BBC News",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:15.209347"
+    "checked_at": "2026-11-13T05:32:24.368942"
   },
   {
-    "claim": "3% at the Budget just 3 weeks ago",
-    "source_url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&amp;at_campaign=rss",
+    "claim": "Schools that hit the average 80% pass rate have fewer children from the lowest-income families than average, and are less likely to be in deprived areas",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&amp;at_campaign=rss",
     "source_domain": "www.bbc.co.uk",
-    "article_title": "Why the UK economy is surprisingly resilient - BBC News",
+    "article_title": "The school where white working-class pupils defy the odds - BBC News",
     "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-12T23:18:15.287552"
+    "checked_at": "2026-11-13T05:32:24.422343"
+  },
+  {
+    "claim": "But in an extraordinary 68-minute address to the media in Sydney, Cummins countered and said: &quot;When he says we all knew, if by that he means we knew sandpaper was going out on the field, he&#x27;s 100% wrong",
+    "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Pat Cummins calls Usman Khawaja sandpaper claims &#x27;wrong&#x27; and &#x27;nonsense&#x27; - BBC Sp",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:24.706224"
+  },
+  {
+    "claim": "&quot;I support him to tell his story, 100%, I&#x27;m glad he feels like he can, but we have to be accountable for the things that we say and do",
+    "source_url": "https://www.bbc.co.uk/sport/cricket/articles/cwq6e4y9525mo?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Pat Cummins calls Usman Khawaja sandpaper claims &#x27;wrong&#x27; and &#x27;nonsense&#x27; - BBC Sp",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:24.753346"
+  },
+  {
+    "claim": "Ankle injuries account for 5% of visits to A&amp;E in the UK, according to NICE, external",
+    "source_url": "https://www.bbc.co.uk/news/articles/c6vgxjevv5v7o?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Ankle injuries are more common than you think - here&#x27;s how to protect yoursÂ  - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-13T05:32:26.029926"
   }
 ]
