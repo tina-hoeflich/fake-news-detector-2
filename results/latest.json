@@ -1,5 +1,18 @@
 [
   {
+    "claim": "Dazu kommen Gremien, deren Mitglieder so gut wie nie namentlich veröffentlicht werden, und ein paar",
+    "source_url": "https://correctiv.org/aktuelles/gesellschaft-2/2026/11/20/fuer-russland-gegen-die-deutsche-wehrpflicht/",
+    "source_domain": "correctiv.org",
+    "article_title": "Für Russland gegen die deutsche Wehrpflicht",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "factcheck",
+    "checked_at": "2026-11-23T06:14:11.184517"
+  },
+  {
     "claim": "Foto: picture alliance/dpa Ganz obenauf liegt ein Gefühl, das sie alle teilen: „Unsere Sorgen werden nicht wahr- oder ernst genommen, sondern aktiv belächelt, beiseitegeschoben“",
     "source_url": "https://correctiv.org/aktuelles/bildung/2026/11/19/gen-z-regelt-proteste-umfrage/",
     "source_domain": "correctiv.org",
@@ -10,7 +23,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:08.316108"
+    "checked_at": "2026-11-23T06:14:11.931826"
   },
   {
     "claim": "Knapp 70 Prozent der über 350 teilnehmenden Jugendlichen und jungen Erwachsenen im Alter von zwölf bis bis Anfang 20 Jahren blicken sorgenvoll oder sehr sorgenvoll in die Zukunft",
@@ -23,7 +36,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:08.398038"
+    "checked_at": "2026-11-23T06:14:12.001227"
   },
   {
     "claim": "Knapp 20 Prozent als schlecht oder sehr schlecht",
@@ -36,7 +49,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:08.476125"
+    "checked_at": "2026-11-23T06:14:12.097628"
   },
   {
     "claim": "Das Oberlandesgericht Köln bestätigte nun: Es liegen ausreichend Beweistatsachen vor, das öffentliche Interesse am Thema sei besonders hoch",
@@ -49,7 +62,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:09.913482"
+    "checked_at": "2026-11-23T06:14:13.252714"
   },
   {
     "claim": "Weiterhin seien alle genannten Vorwürfe gegen sie im Einzelnen erklärbar und nicht ungewöhnlich",
@@ -62,7 +75,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:09.983921"
+    "checked_at": "2026-11-23T06:14:13.322202"
   },
   {
     "claim": "90 12051 Berlin Fax: +49 (0) 30 – 555 780 2 20 Büro Berlin Singerstraße 109 10179 Berlin Buchladen Essen Akazienallee 10 45127 Essen Online-Shop Jugendredaktion Salon5 Alle Standorte CORRECTIV",
@@ -75,7 +88,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:10.053454"
+    "checked_at": "2026-11-23T06:14:13.388013"
   },
   {
     "claim": "[DEBUNKED] Ilse Aigner als Bundespräsidentin: CDU zitiert Umfrage falsch",
@@ -88,7 +101,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "correctiv.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:12.429412"
+    "checked_at": "2026-11-23T06:14:15.333843"
   },
   {
     "claim": "Die AfD bestätigte den Hackerangriff zwar, will jedoch keine Detailfragen zu den Inhalten beantworten",
@@ -101,7 +114,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:13.236037"
+    "checked_at": "2026-11-23T06:14:16.114020"
   },
   {
     "claim": "Das Bundesbauministerium stellt von 2027 bis 2030 insgesamt 150 Millionen Euro aus dem Sondervermögen Infrastruktur und Klimaneutralität bereit",
@@ -114,7 +127,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:14.804310"
+    "checked_at": "2026-11-23T06:14:17.467287"
   },
   {
     "claim": "Gleichzeitig könnte ein Teil der 150 Millionen Euro aus dem Sondervermögen ungenutzt bleiben – obwohl der Sanierungsbedarf groß ist",
@@ -127,7 +140,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:14.872109"
+    "checked_at": "2026-11-23T06:14:17.536186"
   },
   {
     "claim": "Dies ist keine isolierte Krise, sondern eine koordinierte globale Verschiebung – eine Warnung, bevor Demokratien zu einer fernen Erinnerung verblassen",
@@ -140,7 +153,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:15.952635"
+    "checked_at": "2026-11-23T06:14:18.410509"
   },
   {
     "claim": "Nicht einen ganzen Hafen, sondern ein Ammoniak-Terminal am Rotterdamer Hafen für 290 Millionen Euro, wo Düngemittel-Rohstoffe über den Seeweg angeliefert werden",
@@ -153,7 +166,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:16.049035"
+    "checked_at": "2026-11-23T06:14:18.476436"
   },
   {
     "claim": "Fünf Milliarden tschechische Kronen vor Steuern, 4,25 Milliarden nach Steuern: etwa 170 Millionen Euro oder – gemessen am Gehalt eines Ministerpräsidenten – zwölf Jahrhunderte Arbeit",
@@ -166,7 +179,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:16.120509"
+    "checked_at": "2026-11-23T06:14:18.544464"
   },
   {
     "claim": "Er wies die Forderung nach einer „millionenfachen Remigration“ zurück, die einige seiner Parteikollegen immer wieder ins Spiel bringen",
@@ -179,7 +192,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:16.953797"
+    "checked_at": "2026-11-23T06:14:19.305238"
   },
   {
     "claim": "Wobei die offizielle Bezeichnung ein wenig in die Irre führt, in einem schulischen Umfeld, in dem es laut Zeller inzwischen „voll normal ist, rechts zu sein“",
@@ -192,7 +205,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:17.886574"
+    "checked_at": "2026-11-23T06:14:20.063329"
   },
   {
     "claim": "Wie eine Anfrage von CORRECTIV bei den Innenministerien der Länder ergab, wuchs die Zahl der dort offiziell registrierten Straftaten innerhalb von zwei Jahren um rund 80 Prozent",
@@ -205,7 +218,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:17.960546"
+    "checked_at": "2026-11-23T06:14:20.131491"
   },
   {
     "claim": "Keine einheitliche Erfassung in den Bundesländern Die Recherche macht aber vor allem deutlich: Wie schwer bis unmöglich es ist, unter den derzeitigen Bedingungen die tatsächliche Zahl der Taten zu erfassen",
@@ -218,7 +231,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:18.029347"
+    "checked_at": "2026-11-23T06:14:20.202694"
   },
   {
     "claim": "Laut Konzernkreisen beklagen einige im Vorstand intern, dass sie nicht ausreichend über die Planungen informiert gewesen sein",
@@ -231,7 +244,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:18.828301"
+    "checked_at": "2026-11-23T06:14:20.894253"
   },
   {
     "claim": "(Foto: picture alliance/dpa | Philipp Schulze) Die Bundeswehr will ab sofort keine chinesische Drohnen mehr einsetzen",
@@ -244,7 +257,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:19.621873"
+    "checked_at": "2026-11-23T06:14:21.546348"
   },
   {
     "claim": "Petition unterstützen CORRECTIV legte öffentlich bislang unbekannte Sicherheitslücken und Umgehungsmaßnahmen offen Seither haben hochrangige Militärs intern immer wieder vor Sicherheitsrisiken gewarnt",
@@ -257,7 +270,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:19.691442"
+    "checked_at": "2026-11-23T06:14:21.613643"
   },
   {
     "claim": "[DEBUNKED] Falsche Spendensammler: Polizei warnt nach zwei Fällen",
@@ -270,7 +283,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:20.554486"
+    "checked_at": "2026-11-23T06:14:21.989280"
   },
   {
     "claim": "[DEBUNKED] Hitler, Mussolini und Hirohito: KI-Bilder im Faktencheck",
@@ -283,7 +296,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:20.786056"
+    "checked_at": "2026-11-23T06:14:22.671835"
   },
   {
     "claim": "[DEBUNKED] Faire Moderation: Warum Mimikama auch Grenzen setzt",
@@ -296,7 +309,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.000902"
+    "checked_at": "2026-11-23T06:14:23.354473"
   },
   {
     "claim": "[DEBUNKED] Kleinanzeigen-Phishing beginnt ohne Link",
@@ -309,7 +322,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.227573"
+    "checked_at": "2026-11-23T06:14:24.047528"
   },
   {
     "claim": "Norwegens Ablehnung eines neuen Kabelprojekts nach Schottland betrifft keine Abschaltung der Deutschland-Verbindung",
@@ -322,7 +335,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.534159"
+    "checked_at": "2026-11-23T06:14:24.764012"
   },
   {
     "claim": "Bald auch Frankreich: Keine Strom-Hilfe mehr für Deutschland",
@@ -335,7 +348,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.626754"
+    "checked_at": "2026-11-23T06:14:24.834441"
   },
   {
     "claim": "Die Ablehnung eines weiteren Projekts belegt daher keine Abschaltung der bestehenden Deutschland-Verbindung",
@@ -348,7 +361,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.694198"
+    "checked_at": "2026-11-23T06:14:24.900596"
   },
   {
     "claim": "Laut Signal sollen neue Schutzfunktionen auf unterstützten Geräten verhindern, dass Assistenten bereits angezeigte Chats erfassen; die Absicherung ist lückenhaft",
@@ -361,7 +374,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:21.973386"
+    "checked_at": "2026-11-23T06:14:25.216337"
   },
   {
     "claim": "Beim Antippen bestimmter Vorschläge werden laut Hilfe Informationen vom Bildschirm oder aus einer Datei hochgeladen",
@@ -374,7 +387,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:22.064252"
+    "checked_at": "2026-11-23T06:14:25.283677"
   },
   {
     "claim": "Google nennt dafür etwa eine Frage nach dem gerade angezeigten Bild; diese Funktion ist laut Dokumentation nur bei englischsprachiger Gemini-Nutzung verfügbar",
@@ -387,7 +400,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:22.133507"
+    "checked_at": "2026-11-23T06:14:25.350626"
   },
   {
     "claim": "Untersucht wurde also eine kontrollierte Kommentarsituation, keine frei weiterlaufende Debatte",
@@ -400,7 +413,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:22.450672"
+    "checked_at": "2026-11-23T06:14:26.094658"
   },
   {
     "claim": "Gegenüber Beiträgen ohne sichtbare Kommentare stiegen bei Gegenkommentaren die Interaktionen aus Reaktionen, Kommentaren und geteilten Beiträgen zusammen um rund 43 Prozent; Linkklicks nahmen um etwa 15 Prozent zu",
@@ -413,7 +426,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:22.594037"
+    "checked_at": "2026-11-23T06:14:26.162451"
   },
   {
     "claim": "Die Zahlen belegen zusätzliche Aktivität, aber noch keine zusätzliche Zustimmung",
@@ -426,7 +439,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:22.662268"
+    "checked_at": "2026-11-23T06:14:26.230454"
   },
   {
     "claim": "Das ist kein Nachweis für den konkreten Vorwurf; auch die angebliche Kündigungsmail ist nicht unabhängig bestätigt",
@@ -439,7 +452,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.064784"
+    "checked_at": "2026-11-23T06:14:26.556597"
   },
   {
     "claim": "Über die Verbreitung solcher Grafiken lässt sich aus diesen Beispielen allein keine Aussage treffen",
@@ -452,7 +465,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.360965"
+    "checked_at": "2026-11-23T06:14:27.106028"
   },
   {
     "claim": "15 Fragen · Deutschland &amp; ÖsterreichGTA 6 &amp; KI-Bilder: die häufigsten FragenDie kurze Antwort steht direkt unter jeder Frage",
@@ -465,7 +478,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.433943"
+    "checked_at": "2026-11-23T06:14:27.175505"
   },
   {
     "claim": "JAGrundsätzlich – solange keine geschützten Elemente konkreter Werke oder andere Rechte verletzt werden",
@@ -478,7 +491,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.501929"
+    "checked_at": "2026-11-23T06:14:27.245385"
   },
   {
     "claim": "Nach der offiziellen Beschreibung des FBI können Einsatzkräfte darüber beispielsweise prüfen, ob eine Person gesucht oder ein Fahrzeug als gestohlen gemeldet wird",
@@ -491,7 +504,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.806864"
+    "checked_at": "2026-11-23T06:14:27.997123"
   },
   {
     "claim": "Es bedeutet aber, dass zu diesem Zeitpunkt keine Stellungnahme der Behörde zu den berichteten Ermittlungen vorlag",
@@ -504,7 +517,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:23.882533"
+    "checked_at": "2026-11-23T06:14:28.065561"
   },
   {
     "claim": "[DEBUNKED] GTA 6: Kein „Rothschild-Produkt“ – Faktencheck",
@@ -517,7 +530,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:24.731192"
+    "checked_at": "2026-11-23T06:14:28.753712"
   },
   {
     "claim": "[DEBUNKED] Putin und Cai Qi: Foto verfälscht den Größenunterschied",
@@ -530,7 +543,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:24.935108"
+    "checked_at": "2026-11-23T06:14:29.211542"
   },
   {
     "claim": "[DEBUNKED] Auschwitz-Totenbücher: Tabelle verzerrt Opferzahlen",
@@ -543,7 +556,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:25.520486"
+    "checked_at": "2026-11-23T06:14:29.680767"
   },
   {
     "claim": "[DEBUNKED] Masernimpfung: 1.700 Prozent mehr Tote? Das täuscht",
@@ -556,7 +569,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:25.759996"
+    "checked_at": "2026-11-23T06:14:30.146667"
   },
   {
     "claim": "[DEBUNKED] Raketen in Polen: X-Behauptung zum Weltkrieg geprüft",
@@ -569,7 +582,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.mimikama.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:25.980809"
+    "checked_at": "2026-11-23T06:14:30.835884"
   },
   {
     "claim": "November 2026 | 12 min Audio abspielen Die Bundesregierung will 20 Millionen Euro zum Fenster rauswerfen, um gerade mal 20 bis 40 abgelehnte Asylsuchende nach Ruanda zu deportieren",
@@ -582,7 +595,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:27.304680"
+    "checked_at": "2026-11-23T06:14:31.823471"
   },
   {
     "claim": "Gleichzeitig streicht die Regierung 20 Millionen bei Projekten gegen Rechtsextremismus",
@@ -595,7 +608,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:27.467595"
+    "checked_at": "2026-11-23T06:14:31.889137"
   },
   {
     "claim": "Am Montag haben die fünf Staaten in Wien verkündet, dass sie mit Ruanda ein solches Lager prüfen und schon 2027 die ersten Menschen dorthin bringen wollen",
@@ -608,7 +621,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:27.534451"
+    "checked_at": "2026-11-23T06:14:31.954411"
   },
   {
     "claim": "Unsere Medien berichten fast ausschließlich über jeden nicht-deutschen Verdächtigen, aber fast alle Deutschen bleiben unerwähnt",
@@ -621,7 +634,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:28.249792"
+    "checked_at": "2026-11-23T06:14:32.493559"
   },
   {
     "claim": "Und trotzdem erfährst du in der Tagesschau praktisch nie, woher diese Leute kommen",
@@ -634,7 +647,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:28.321100"
+    "checked_at": "2026-11-23T06:14:32.560957"
   },
   {
     "claim": "Sein Befund für 2025: Wenn Fernsehbeiträge die Herkunft von Tatverdächtigen nennen, dann geht es in 94,6 Prozent der Fälle um Ausländer, in Zeitungen in 90,8 Prozent",
@@ -647,7 +660,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:28.404367"
+    "checked_at": "2026-11-23T06:14:32.629136"
   },
   {
     "claim": "[DEBUNKED] Schoko-Nikolaus: Sie hatten recht! Unsere Tradition wird verhöhnt - Volksverpetzer",
@@ -660,7 +673,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:29.013105"
+    "checked_at": "2026-11-23T06:14:33.108565"
   },
   {
     "claim": "November 2026 | 14 min Audio abspielen 41,8 Grad, so heiß war es in Deutschland noch nie",
@@ -673,7 +686,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:29.719932"
+    "checked_at": "2026-11-23T06:14:33.665961"
   },
   {
     "claim": "Die berichten immer weniger darüber: Der Anteil der Klima-Sendeminuten ist erstmals unter ein Prozent gefallen und hat sich seit 2023 mehr als halbiert",
@@ -686,7 +699,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:29.788732"
+    "checked_at": "2026-11-23T06:14:33.735435"
   },
   {
     "claim": "Juni 2026 war es in Deutschland seit Beginn der Messungen noch nie",
@@ -699,7 +712,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:29.966115"
+    "checked_at": "2026-11-23T06:14:33.804502"
   },
   {
     "claim": "November 2026 | 4 min Audio abspielen 2,7 Millionen EU-Bürger arbeiten in Deutschland, zahlen Steuern und Sozialabgaben",
@@ -712,7 +725,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:30.654695"
+    "checked_at": "2026-11-23T06:14:34.338552"
   },
   {
     "claim": "Dafür bekommen sie fairerweise auch Kindergeld, wie alle anderen auch",
@@ -725,7 +738,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:30.723721"
+    "checked_at": "2026-11-23T06:14:34.404711"
   },
   {
     "claim": "Nur rund 1 Prozent des gesamten Kindergelds geht überhaupt auf Konten im Ausland",
@@ -738,7 +751,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:30.903722"
+    "checked_at": "2026-11-23T06:14:34.471301"
   },
   {
     "claim": "Wir zeigen, welche Szenarien es gibt, warum Enthaltung keine Option ist und was die Christdemokraten jetzt unbedingt tun müssen, um nicht die Demokratie zu verraten",
@@ -751,7 +764,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:31.588887"
+    "checked_at": "2026-11-23T06:14:35.010709"
   },
   {
     "claim": "Auch wenn es keine absolute Mehrheit ist",
@@ -764,7 +777,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:31.664917"
+    "checked_at": "2026-11-23T06:14:35.077998"
   },
   {
     "claim": "Stimmen alle 39 mit Nein, steht es 39 zu 39 und niemand ist gewählt",
@@ -777,7 +790,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:31.748133"
+    "checked_at": "2026-11-23T06:14:35.144336"
   },
   {
     "claim": "[DEBUNKED] Sankt Martin findet statt: Alte rechte Lügen in neuen KI-Schläuchen - Volksverpetzer",
@@ -790,7 +803,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:32.380625"
+    "checked_at": "2026-11-23T06:14:35.624734"
   },
   {
     "claim": "[DEBUNKED] Diese Kassenzettel sind KI-Fakes – es ist aber komplizierter, als du denkst! - Volksverpetzer",
@@ -803,7 +816,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "volksverpetzer.de",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:33.010439"
+    "checked_at": "2026-11-23T06:14:36.103823"
   },
   {
     "claim": "[DEBUNKED] 25 rumors about hacks and cyberattacks, fact-checked | Snopes.com",
@@ -816,7 +829,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:33.125864"
+    "checked_at": "2026-11-23T06:14:36.242956"
   },
   {
     "claim": "[DEBUNKED] Did DOGE lay off 400 FAA technicians responsible for maintaining critical navigational systems? | Snopes.com",
@@ -829,7 +842,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:33.450456"
+    "checked_at": "2026-11-23T06:14:36.475006"
   },
   {
     "claim": "In other words, about 44% — or about $2",
@@ -842,7 +855,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:33.639119"
+    "checked_at": "2026-11-23T06:14:36.617516"
   },
   {
     "claim": "11, 2025 The Federal Aviation Administration cut flights at major airports by 10% as the longest governme",
@@ -855,7 +868,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:34.054027"
+    "checked_at": "2026-11-23T06:14:36.913039"
   },
   {
     "claim": "[DEBUNKED] Can the 'pink salt trick' help with weight loss? | Snopes.com",
@@ -868,7 +881,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:34.152734"
+    "checked_at": "2026-11-23T06:14:36.987676"
   },
   {
     "claim": "11, 2025 The Federal Aviation Administration cut flights at major airports by 10% as the longest governme",
@@ -881,7 +894,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:34.486206"
+    "checked_at": "2026-11-23T06:14:37.199076"
   },
   {
     "claim": "[DEBUNKED] Do guards at Tomb of the Unknown Soldier follow these strict rules? | Snopes.com",
@@ -894,20 +907,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.snopes.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:34.860009"
-  },
-  {
-    "claim": "[DEBUNKED] Did Muslim-majority city Hamtramck, Michigan, ban pride flags? | Snopes.com",
-    "source_url": "https://www.snopes.com/fact-check/muslim-michigan-ban-pride-flag/",
-    "source_domain": "www.snopes.com",
-    "article_title": "Did Muslim-majority city Hamtramck, Michigan, ban pride flags? | Snopes.com",
-    "risk_score": 0.9,
-    "risk_category": "HIGH",
-    "has_factcheck": true,
-    "factcheck_rating": "FALSE - Debunked by fact-checkers",
-    "factcheck_source": "www.snopes.com",
-    "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:34.965874"
+    "checked_at": "2026-11-23T06:14:37.414970"
   },
   {
     "claim": "However, Labour has separately committed to building 300,000 social and affordable homes between 2026 and 2036 through its Social and Affordable Homes Programme, and has said “at least 60%”, around 180,000, of these will be “for social rent”",
@@ -920,7 +920,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:36.292671"
+    "checked_at": "2026-11-23T06:14:38.520330"
   },
   {
     "claim": "[DEBUNKED] Viral posts falsely claim judicial review on state pension age change set for June – Full Fact",
@@ -933,7 +933,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:36.857681"
+    "checked_at": "2026-11-23T06:14:38.888517"
   },
   {
     "claim": "[DEBUNKED] Video of red lights in the sky predates suspected drone incident at RAF Lakenheath – Full Fact",
@@ -946,7 +946,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:38.002187"
+    "checked_at": "2026-11-23T06:14:39.793102"
   },
   {
     "claim": "[DEBUNKED] Fake National Grid warning about ‘major blackout’ shared online – Full Fact",
@@ -959,7 +959,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:38.551054"
+    "checked_at": "2026-11-23T06:14:40.158050"
   },
   {
     "claim": "By Hannah Smith &bull; Health &bull; 2 mins What was claimed About 93% of applications for fit notes are signed off automatically",
@@ -972,7 +972,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:39.162995"
+    "checked_at": "2026-11-23T06:14:40.711579"
   },
   {
     "claim": "Our verdict The DWP says the 93% figure Mr Milburn used actually refers to the proportion of issued fit notes which state a person is ‘not fit for work’",
@@ -985,7 +985,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:39.224859"
+    "checked_at": "2026-11-23T06:14:40.780872"
   },
   {
     "claim": "“About 93% of applications for fit notes are signed off automatically",
@@ -998,7 +998,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:39.372081"
+    "checked_at": "2026-11-23T06:14:40.847925"
   },
   {
     "claim": "[DEBUNKED] Video shows German police at pro-Palestine protest, not Swiss ‘burqa ban’ enforcement – Full Fact",
@@ -1011,7 +1011,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "fullfact.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:40.262814"
+    "checked_at": "2026-11-23T06:14:41.497985"
   },
   {
     "claim": "Crude oil is down 20% since the start of November, and now it’s down to close to $80 a barrel",
@@ -1024,7 +1024,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:40.856956"
+    "checked_at": "2026-11-23T06:14:41.790764"
   },
   {
     "claim": "[DEBUNKED] Former Trump Administration Health Adviser Misleads About mRNA Flu Vaccine - FactCheck.org",
@@ -1037,7 +1037,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:41.361482"
+    "checked_at": "2026-11-23T06:14:42.134014"
   },
   {
     "claim": "[DEBUNKED] Trump Makes False and Misleading Claims About Funding for HBCUs - FactCheck.org",
@@ -1050,7 +1050,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:41.799541"
+    "checked_at": "2026-11-23T06:14:42.512614"
   },
   {
     "claim": "[DEBUNKED] Our Annual Fundraising Drive - FactCheck.org",
@@ -1063,7 +1063,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:43.156362"
+    "checked_at": "2026-11-23T06:14:43.412856"
   },
   {
     "claim": "It found that compared with a Moderna dose, adult Pfizer recipients had a 40% higher risk of dying from any cause within one year of a first dose",
@@ -1076,7 +1076,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:43.674968"
+    "checked_at": "2026-11-23T06:14:43.804864"
   },
   {
     "claim": "[DEBUNKED] FactChecking Trump&#039;s Post-Election &#8216;60 Minutes&#8217; Interview - FactCheck.org",
@@ -1089,7 +1089,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:44.249477"
+    "checked_at": "2026-11-23T06:14:44.127209"
   },
   {
     "claim": "[DEBUNKED] Explaining the U.S. Defense Agreement with Greenland and Denmark - FactCheck.org",
@@ -1102,7 +1102,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:44.629577"
+    "checked_at": "2026-11-23T06:14:44.679945"
   },
   {
     "claim": "[DEBUNKED] Wright’s Misleading Claims About Electricity Prices in Red vs. Blue States - FactCheck.org",
@@ -1115,7 +1115,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.factcheck.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:45.196075"
+    "checked_at": "2026-11-23T06:14:45.035225"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Video Showing Nazis Refusing To Shake LGBTQ+ Activists' Hands Is AI-Generated | Lead Stories",
@@ -1128,7 +1128,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:45.897421"
+    "checked_at": "2026-11-23T06:14:45.685817"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Image Of Trump, Xi Seated Together At APEC Summit Banquet As Putin Looks On From Another Table -- It's AI-Generated  | Lead Stories",
@@ -1141,7 +1141,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.055777"
+    "checked_at": "2026-11-23T06:14:45.799904"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Photo of Trump, Putin and Xi Resembles FAKE Picture of Hitler, Mussolini and Hirohito | Lead Stories",
@@ -1154,7 +1154,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.247454"
+    "checked_at": "2026-11-23T06:14:45.913754"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE PIF Tower Video Does NOT Show Real Damage From Houthi Attack On Riyadh | Lead Stories",
@@ -1167,7 +1167,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.447236"
+    "checked_at": "2026-11-23T06:14:46.030386"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Texas Election Audit Does NOT Just Look At Digital Images -- Secretary Of State Says Audit Uses Paper Ballots  | Lead Stories",
@@ -1180,7 +1180,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.634000"
+    "checked_at": "2026-11-23T06:14:46.156522"
   },
   {
     "claim": "[DEBUNKED] Fact Check: NO Evidence White House Sources Said Trump 'Allowed Election To Be Stolen' -- Story Came From Account Labeled Comedian | Lead Stories",
@@ -1193,7 +1193,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.786788"
+    "checked_at": "2026-11-23T06:14:46.258494"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Ukrainian Lawmaker Vatsak Is NOT In Zelenskyy's Party -- His Luxury Cars Video Has No Call To Fight | Lead Stories",
@@ -1206,7 +1206,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:46.957957"
+    "checked_at": "2026-11-23T06:14:46.385269"
   },
   {
     "claim": "[DEBUNKED] Fact Check: NO Evidence 'Audit' Found 228,000 Fraudulent Votes For Mamdani In New York Mayoral Race | Lead Stories",
@@ -1219,7 +1219,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.122505"
+    "checked_at": "2026-11-23T06:14:46.520063"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Images Of Bryan Cranston With Erik Per Sullivan Buying GTA in 2013 vs GTA VI 2026 -- They Are AI-Generated | Lead Stories",
@@ -1232,7 +1232,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.282148"
+    "checked_at": "2026-11-23T06:14:46.636573"
   },
   {
     "claim": "[DEBUNKED] Fact Check: Video Does NOT Prove Czech PM Babiš Refused to Shake Hands With Netanyahu -- It Is a Fragment | Lead Stories",
@@ -1245,7 +1245,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.460603"
+    "checked_at": "2026-11-23T06:14:46.768237"
   },
   {
     "claim": "[DEBUNKED] Fact Check: There Were NOT More Christians Than Jews Killed at Auschwitz -- Real Data From German Documents Presented in Misleading Way | Lead Stories",
@@ -1258,7 +1258,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.630254"
+    "checked_at": "2026-11-23T06:14:46.889067"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Photo of Xi, Putin and Trump Resembling Yalta Image of Churchill, FDR and Stalin Is AI-Generated | Lead Stories",
@@ -1271,7 +1271,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.797787"
+    "checked_at": "2026-11-23T06:14:47.005215"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE 2026 Video Based On 2024 Indonesian Incident Where Woman Stepped From Treadmill And Fatally Fell From Gym Window | Lead Stories",
@@ -1284,7 +1284,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:47.985547"
+    "checked_at": "2026-11-23T06:14:47.117061"
   },
   {
     "claim": "[DEBUNKED] Fact Check: FAKE Photo Shows Huge Height Difference Between Vladimir Putin And Chinese Official -- Image Is AI-Altered | Lead Stories",
@@ -1297,7 +1297,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:48.173443"
+    "checked_at": "2026-11-23T06:14:47.227766"
   },
   {
     "claim": "[DEBUNKED] Fact Check: NO Evidence White House Posted Image Showing Trump As A British Redcoat With 'Patriots in Control' Slogan -- It Is An AI Creation | Lead Stories",
@@ -1310,7 +1310,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "leadstories.com",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:48.335824"
+    "checked_at": "2026-11-23T06:14:47.351054"
   },
   {
     "claim": "In Santa Clara County, the foster care rolls ballooned by 229%",
@@ -1323,7 +1323,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:48.681269"
+    "checked_at": "2026-11-23T06:14:47.669465"
   },
   {
     "claim": "Sure, our print circulation has been declining, but our digital subscriptions in Portland are up more than 10% so far this year",
@@ -1336,7 +1336,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:49.200022"
+    "checked_at": "2026-11-23T06:14:48.085166"
   },
   {
     "claim": "Nicholas Bloom, a Stanford University economics professor, estimated that perhaps 5% of full-time U",
@@ -1349,7 +1349,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:49.512940"
+    "checked_at": "2026-11-23T06:14:48.290145"
   },
   {
     "claim": "[DEBUNKED] What can Africa’s fact-checkers build that will outlast a grant? - Poynter",
@@ -1362,7 +1362,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "www.poynter.org",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:49.678720"
+    "checked_at": "2026-11-23T06:14:48.423074"
   },
   {
     "claim": "The union is trying to get a 4% wage increase for the first year of the contract, retroactive to December 2025, followed by guaranteed 3",
@@ -1375,7 +1375,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:50.258554"
+    "checked_at": "2026-11-23T06:14:48.811138"
   },
   {
     "claim": "The company has proposed a nonretroactive 3% wage increase for the first year and guaranteed raises of 1",
@@ -1388,7 +1388,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:50.340602"
+    "checked_at": "2026-11-23T06:14:48.879443"
   },
   {
     "claim": "In its last quarterly earnings report, Reuters said that revenue had grown 12% year-over-year to $232 million thanks in large part to AI content licensing deals",
@@ -1401,7 +1401,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:50.421542"
+    "checked_at": "2026-11-23T06:14:48.948950"
   },
   {
     "claim": "[DEBUNKED] Russia introduces new laws to jail critics, but denies it holds any political prisoners - EUvsDisinfo",
@@ -1414,7 +1414,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:52.160410"
+    "checked_at": "2026-11-23T06:14:50.361920"
   },
   {
     "claim": "[DEBUNKED] How to justify crimes against humanity: the Kremlin method - EUvsDisinfo",
@@ -1427,7 +1427,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:52.424460"
+    "checked_at": "2026-11-23T06:14:50.768070"
   },
   {
     "claim": "[DEBUNKED] Russia’s Baltic escalation playbook: fear is part of the strategy - EUvsDisinfo",
@@ -1440,7 +1440,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:53.302847"
+    "checked_at": "2026-11-23T06:14:51.794398"
   },
   {
     "claim": "[DEBUNKED] Moscow cries fraud abroad while fixing the vote at home - EUvsDisinfo",
@@ -1453,7 +1453,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:53.542788"
+    "checked_at": "2026-11-23T06:14:52.193414"
   },
   {
     "claim": "[DEBUNKED] From denial to exploitation: how the Kremlin has adapted its climate disinformation - EUvsDisinfo",
@@ -1466,7 +1466,7 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:54.069296"
+    "checked_at": "2026-11-23T06:14:52.604071"
   },
   {
     "claim": "[DEBUNKED] From social media to the front line: Russia’s foreign recruitment pipeline - EUvsDisinfo",
@@ -1479,293 +1479,267 @@
     "factcheck_rating": "FALSE - Debunked by fact-checkers",
     "factcheck_source": "euvsdisinfo.eu",
     "source_type": "factcheck",
-    "checked_at": "2026-11-22T23:20:54.327136"
+    "checked_at": "2026-11-23T06:14:53.197227"
   },
   {
-    "claim": "Die Behörden des Bürgerkriegslands machten zunächst keine Angaben zu möglichen Opfern",
-    "source_url": "https://www.spiegel.de/ausland/krieg-in-sudan-uno-gebaeude-bei-drohnenangriff-beschaedigt-a-c4b398b9-f7f6-40a0-a92c-3377e276a67a#ref=rss",
+    "claim": "length - 1, 500, false)\" data-area=\"nav-bar\" data-app-hidden x-lazyload> Menü Startseite Ausland Polen Polen: Alle abgestürzten Objekte als russische Marschflugkörper identifiziert $swiper",
+    "source_url": "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Krieg in Sudan: Uno-Gebäude bei Drohnenangriff beschädigt - DER SPIEGEL",
+    "article_title": "Polen: Alle abgestürzten Objekte als russische Marschflugkörper identifiziert - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:06.213218"
-  },
-  {
-    "claim": "»Natürlich würden wir alle gerne die kalte Progression ausgleichen",
-    "source_url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:07.183494"
-  },
-  {
-    "claim": "Das Ergebnis des Koalitionsausschusses war die Senkung der Stromsteuer, auch wenn wir uns alle mehr wünschen würden",
-    "source_url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:07.250952"
-  },
-  {
-    "claim": "Ein vollständiger Ausgleich dieses Phänomens im Jahr 2027 würde Bund, Länder und Kommunen zusammen rund 4,2 Milliarden Euro kosten",
-    "source_url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Markus Söder: Hendrik Wüst lehnt Forderung zur kalten Progression ab - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:07.319556"
-  },
-  {
-    "claim": "25%;\" :style=\"{minHeight: typeof iframeHeight === 'number' && iframeIsLoaded",
-    "source_url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:11.415179"
-  },
-  {
-    "claim": "25%',}\" x-lazyload> Im Duell der beiden englischen Rekordmeister erwischte Pochettinos Team einen katastrophalen Start und musste bereits ab der achten Minute mit einem Mann weniger auskommen",
-    "source_url": "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Premier League: Pochettino soll United retten, erlebt 0:4-Debakel in Liverpool - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:11.824573"
-  },
-  {
-    "claim": "000 Euro betragen haben, damit gilt sie als Rekordtransfer im deutschen Fußball der Frauen",
-    "source_url": "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "FC Arsenal: Lisa Baum bricht im Spiel mit Atemnot zusammen - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:12.606975"
+    "checked_at": "2026-11-23T06:15:02.142797"
   },
   {
     "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
+    "source_url": "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird - DER SPIEGEL",
+    "article_title": "Audi A2 im Test: Sparn, sparn, sparn auf der Autobahn - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:14.239272"
+    "checked_at": "2026-11-23T06:15:02.886231"
   },
   {
     "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
+    "source_url": "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Umgang mit Trauer: Wenn der Friedhof zum Ort für Freundinnen und Feiern wird - DER SPIEGEL",
+    "article_title": "Audi A2 im Test: Sparn, sparn, sparn auf der Autobahn - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:14.320455"
+    "checked_at": "2026-11-23T06:15:02.957248"
   },
   {
-    "claim": "Andere Nutzungen verletzen das Urheberrecht Fast fünf Jahre nach Beginn der Vollinvasion »Der Ukraine steht der härteste Kriegswinter bevor« Kyjiws Soldaten werden an der Front taktisch immer besser und machen kleine Fortschritte",
-    "source_url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+    "claim": "Bis zu 2,8 Milliarden pro JahrWürden diese beiden Empfehlungen umgesetzt, so könnten –",
+    "source_url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gad",
-    "risk_score": 0.1,
+    "article_title": "Verschärfung der Regeln für Altersteilzeit könnte Milliarden einbringen - DER SPIEGEL",
+    "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:15.173918"
+    "checked_at": "2026-11-23T06:15:03.714315"
   },
   {
-    "claim": "positiv bewerten negativ bewerten image\"> Bild vergrößern Ukrainische Artillerie: »Das größte Problem ist immer noch der Mangel an Soldaten« Foto: Anatolii Stepanov / REUTERS Sie können den Artikel leider nicht mehr aufrufen",
-    "source_url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+    "claim": "Der Montagmorgen kann glatt werden Straßen, Fuß- und Radwege können laut Deutschem Wetterdienst vielerorts glatt sein",
+    "source_url": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gad",
-    "risk_score": 0.1,
+    "article_title": "Wetter in Deutschland am Montag: Vorsicht vor glatten Straßen und Schnee - DER SPIEGEL",
+    "risk_score": 0,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:15.244379"
+    "checked_at": "2026-11-23T06:15:04.970702"
   },
   {
-    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
+    "claim": "Laut Prognose des Deutschen Wetterdienstes &nbsp;(DWD) sollen die Niederschläge im Südwesten und im Alpenvorland in der Nacht zum Montag zunehmend bis in tiefere Lagen in Schnee übergehen",
+    "source_url": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Ukraine-Krieg: »Der Ukraine steht der härteste Kriegswinter bevor« – Militärexperte Franz-Stefan Gad",
+    "article_title": "Wetter in Deutschland am Montag: Vorsicht vor glatten Straßen und Schnee - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:15.312841"
-  },
-  {
-    "claim": "Nun sind sie alle bei einer Auktion versteigert worden – und haben mehr als zwei Millionen Dollar (rund 1,82 Millionen Euro) eingebracht, wie das Auktionshaus Gooding Christie’s mitteilte",
-    "source_url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:16.280351"
-  },
-  {
-    "claim": "Er habe sich aber immer mehr als Fahrer gesehen, nicht als Sammler",
-    "source_url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:16.348983"
-  },
-  {
-    "claim": "»Und die Wahrheit ist, man kann immer nur eins auf einmal fahren«, sagte er dem »Hollywood Reporter« im Oktober",
-    "source_url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Billy Joel versteigert Motorradsammlung für zwei Millionen Dollar - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:16.417735"
-  },
-  {
-    "claim": "Medienberichten zufolge betrifft die Störung alle Delta-Flüge von und nach Atlanta, dem passagierreichsten Flughafen des Landes",
-    "source_url": "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Delta Airline: Erneut US-Fluggesellschaft von technischer Störung betroffen - DER SPIEGEL",
-    "risk_score": 0.1,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:17.289942"
+    "checked_at": "2026-11-23T06:15:05.039840"
   },
   {
     "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-ueberrollt-hsv-und-wird-zur-ueberraschung-der-saison-a-1d8dcdf8-3ee2-4a58-a22a-895efe064dd9#ref=rss",
+    "source_url": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Bundesliga: Werder Bremen überrollt HSV und wird zur Überraschung der Saison - DER SPIEGEL",
+    "article_title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback? - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:18.167974"
+    "checked_at": "2026-11-23T06:15:05.711378"
   },
   {
     "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
-    "source_url": "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-ueberrollt-hsv-und-wird-zur-ueberraschung-der-saison-a-1d8dcdf8-3ee2-4a58-a22a-895efe064dd9#ref=rss",
+    "source_url": "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Bundesliga: Werder Bremen überrollt HSV und wird zur Überraschung der Saison - DER SPIEGEL",
+    "article_title": "EU-Parlament: Erlebt die Brandmauer in Brüssel ein Comeback? - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:18.235424"
+    "checked_at": "2026-11-23T06:15:05.778014"
   },
   {
-    "claim": "Das Kyoto-Protokoll war noch nicht in Kraft, weil die Unterzeichner nur 47 Prozent der Emissionen abdeckten",
-    "source_url": "https://www.spiegel.de/panorama/uno-klimakonferenz-so-chaotisch-ging-es-auf-vergangenen-weltklimakonferenzen-zu-a-33ee75f2-dfa1-41f3-aa8a-8f7e1547244f#ref=rss",
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
     "source_domain": "www.spiegel.de",
-    "article_title": "Uno-Klimakonferenz: So chaotisch ging es auf vergangenen Weltklimakonferenzen zu - DER SPIEGEL",
-    "risk_score": 0,
-    "risk_category": "LOW",
-    "has_factcheck": false,
-    "factcheck_rating": null,
-    "factcheck_source": null,
-    "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:19.280635"
-  },
-  {
-    "claim": "Japan, Russland und Neuseeland übernahmen keine Ziele für die zweite Periode",
-    "source_url": "https://www.spiegel.de/panorama/uno-klimakonferenz-so-chaotisch-ging-es-auf-vergangenen-weltklimakonferenzen-zu-a-33ee75f2-dfa1-41f3-aa8a-8f7e1547244f#ref=rss",
-    "source_domain": "www.spiegel.de",
-    "article_title": "Uno-Klimakonferenz: So chaotisch ging es auf vergangenen Weltklimakonferenzen zu - DER SPIEGEL",
+    "article_title": "Black Friday und Black Week: So finden Sie mit KI-Tools wie ChatGPT echte Angebote - DER SPIEGEL",
     "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:19.361144"
+    "checked_at": "2026-11-23T06:15:06.547964"
   },
   {
-    "claim": "Cornwall Insight has predicted Ofgem&#x27;s energy price cap will rise by 26% to Â£2,166 a year for a typical household from 1 January",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
-    "source_domain": "www.bbc.co.uk",
-    "article_title": "Centrica boss says he is &#x27;hugely concerned&#x27; over impact of soaring energy bills - BBC News",
-    "risk_score": 0,
+    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Black Friday und Black Week: So finden Sie mit KI-Tools wie ChatGPT echte Angebote - DER SPIEGEL",
+    "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:19.888842"
+    "checked_at": "2026-11-23T06:15:06.618138"
   },
   {
-    "claim": "The government has also temporarily cut 5% VAT from electricity bills until the end of June next year, which is expected to save the typical household about Â£45 a year",
-    "source_url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&amp;at_campaign=rss",
-    "source_domain": "www.bbc.co.uk",
-    "article_title": "Centrica boss says he is &#x27;hugely concerned&#x27; over impact of soaring energy bills - BBC News",
-    "risk_score": 0,
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Bücher von Peter Hahne und Ulf Poschardt werden Bestseller – aber ist das Wutbuch wirklich eine Erfi",
+    "risk_score": 0.1,
     "risk_category": "LOW",
     "has_factcheck": false,
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:19.956757"
+    "checked_at": "2026-11-23T06:15:07.306982"
+  },
+  {
+    "claim": "E-Paper (PDF), Digital-Archiv und S+-Newsletter Jederzeit kündigen Jetzt abonnieren SPIEGEL plus 52 Wochen 31 % sparen 4,49 € pro Woche für 52 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Bücher von Peter Hahne und Ulf Poschardt werden Bestseller – aber ist das Wutbuch wirklich eine Erfi",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:07.377583"
+  },
+  {
+    "claim": "Neues Arbeiten, besseres Leben – immer montags image\"> [M] DER SPIEGEL; Foto: Westend61 / Getty Images Ausgabe Nr",
+    "source_url": "https://www.spiegel.de/karriere/konflikte-im-job-wenn-kollegen-nicht-mehr-miteinander-reden-was-hilft-a-064e24f3-bcc7-441b-b5c1-615d892735a1#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Konflikte im Job: Wenn Kollegen nicht mehr miteinander reden – was hilft - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:08.022563"
+  },
+  {
+    "claim": "2026 • Alle Ausgaben aufklappen Automatisch erstellt mit KI",
+    "source_url": "https://www.spiegel.de/karriere/konflikte-im-job-wenn-kollegen-nicht-mehr-miteinander-reden-was-hilft-a-064e24f3-bcc7-441b-b5c1-615d892735a1#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Konflikte im Job: Wenn Kollegen nicht mehr miteinander reden – was hilft - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:08.091489"
+  },
+  {
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/karriere/konflikte-im-job-wenn-kollegen-nicht-mehr-miteinander-reden-was-hilft-a-064e24f3-bcc7-441b-b5c1-615d892735a1#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Konflikte im Job: Wenn Kollegen nicht mehr miteinander reden – was hilft - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:08.161602"
+  },
+  {
+    "claim": "Neues Arbeiten, besseres Leben – immer montags image\"> Foto: by-studio / iStockphoto / Getty Images Ausgabe Nr",
+    "source_url": "https://www.spiegel.de/karriere/sparkurs-im-unternehmen-was-sie-hinnehmen-muessen-und-wo-sie-sich-wehren-koennen-a-c2f283d4-e3de-45df-a031-58080041ee56#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Sparkurs im Unternehmen – was Sie hinnehmen müssen und wo Sie sich wehren können - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:08.912912"
+  },
+  {
+    "claim": "2026 • Alle Ausgaben aufklappen Automatisch erstellt mit KI",
+    "source_url": "https://www.spiegel.de/karriere/sparkurs-im-unternehmen-was-sie-hinnehmen-muessen-und-wo-sie-sich-wehren-koennen-a-c2f283d4-e3de-45df-a031-58080041ee56#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Sparkurs im Unternehmen – was Sie hinnehmen müssen und wo Sie sich wehren können - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:08.981281"
+  },
+  {
+    "claim": "Zum Login SPIEGEL plus Nur für Neukunden 1 € für 4 Wochen danach 6,49 € pro Woche Freier Zugriff auf alle S+-Artikel auf SPIEGEL",
+    "source_url": "https://www.spiegel.de/karriere/sparkurs-im-unternehmen-was-sie-hinnehmen-muessen-und-wo-sie-sich-wehren-koennen-a-c2f283d4-e3de-45df-a031-58080041ee56#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "Sparkurs im Unternehmen – was Sie hinnehmen müssen und wo Sie sich wehren können - DER SPIEGEL",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:09.053291"
+  },
+  {
+    "claim": "Das ist keine schlechte Nachricht",
+    "source_url": "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "News: Markus Söder will Kalte Progression ausgleichen, Klimakonferenz zurecht gescheitert, Pressefre",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:09.723477"
+  },
+  {
+    "claim": "Das kostet allerdings Geld, für das Jahr 2027 wären es Berechnungen zufolge insgesamt etwa 4,2 Milliarden Euro, die der Bund, die Länder und die Kommunen weniger einnehmen würden",
+    "source_url": "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
+    "source_domain": "www.spiegel.de",
+    "article_title": "News: Markus Söder will Kalte Progression ausgleichen, Klimakonferenz zurecht gescheitert, Pressefre",
+    "risk_score": 0.1,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:09.793678"
   },
   {
     "claim": "5%&quot; to UK gross domestic product and he described it as a &quot;Â£17bn boost to the British economy&quot;",
@@ -1778,7 +1752,20 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:20.212853"
+    "checked_at": "2026-11-23T06:15:12.828181"
+  },
+  {
+    "claim": "&quot;Gilbert told the BBC there was a &quot;huge shortfall&quot; in radiologists and that the number of imaging examinations was increasing by 8% a year",
+    "source_url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "Can AI spot breast cancer earlier? NHS launches world&#x27;s largest trial to find out - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:12.963702"
   },
   {
     "claim": "The race was called on Sunday, with Hubbard beating Foxx by 330 votes with 99% counted",
@@ -1791,7 +1778,7 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:20.726683"
+    "checked_at": "2026-11-23T06:15:13.179634"
   },
   {
     "claim": "This is allowed under state law when the margin of victory is under 1%",
@@ -1804,6 +1791,32 @@
     "factcheck_rating": null,
     "factcheck_source": null,
     "source_type": "mainstream",
-    "checked_at": "2026-11-22T23:21:20.819127"
+    "checked_at": "2026-11-23T06:15:13.242375"
+  },
+  {
+    "claim": "Going into the vital Christmas period, first-quarter like-for-like sales were up 7% and operational profits of Â£1",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "What is going on with Poundland? - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:13.399349"
+  },
+  {
+    "claim": "4% higher than last year - this is usually a good indicator of how a retailer will do at Christmas, says retail analyst Catherine Shuttleworth of Savvy Marketing",
+    "source_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&amp;at_campaign=rss",
+    "source_domain": "www.bbc.co.uk",
+    "article_title": "What is going on with Poundland? - BBC News",
+    "risk_score": 0,
+    "risk_category": "LOW",
+    "has_factcheck": false,
+    "factcheck_rating": null,
+    "factcheck_source": null,
+    "source_type": "mainstream",
+    "checked_at": "2026-11-23T06:15:13.471294"
   }
 ]
